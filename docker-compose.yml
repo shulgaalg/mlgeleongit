@@ -1,0 +1,57 @@
+version: '3.7'
+
+services:
+  nginx:
+    image: nginx:latest
+    volumes:
+     - ./:/var/www/
+     - ./docker/nginx/conf.d/:/etc/nginx/conf.d
+    ports:
+     - "8877:80"
+    depends_on:
+      - app
+    container_name: mlgeleon_nginx
+    tty: true
+    networks:
+      - app-network
+  
+  app:
+    build:
+      context: .
+      dockerfile: docker/app/Dockerfile
+    image: app-network
+    volumes:
+      - ./:/var/www
+      - ./docker/app/php.ini:/usr/local/etc/php/conf.d/php.ini
+      - ./docker/php/conf.d/xdebug.ini:/usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini
+      - ./docker/php/conf.d/error_reporting.ini:/usr/local/etc/php/conf.d/error_reporting.ini
+    container_name: mlgeleon_app
+    tty: true
+    working_dir: /var/www
+    restart: unless-stopped
+    networks:
+      - app-network
+    depends_on:
+      - db
+
+  db:
+    image: mysql:8.0  
+    restart: always
+    volumes:
+      - ./tmp/db:/var/lib/mysql
+    environment:
+      MYSQL_DATABASE: db_mlgeleon
+      MYSQL_ROOT_PASSWORD: geleon77
+      SERVICE_TAGS: dev
+      ERVICE_NAME: mysql
+    ports:
+      - 8101:3306
+    command: mysqld --character-set-server=utf8 --collation-server=utf8_unicode_ci
+    container_name: mlgeleon_db
+    networks:
+      - app-network
+  
+# Networks
+networks:
+  app-network:
+    driver: bridge
