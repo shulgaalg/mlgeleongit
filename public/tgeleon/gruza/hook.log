@@ -1,0 +1,4102 @@
+
+------------------------
+2020.04.13 1:22:38
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => rossvik
+    [tehnology] => 1step
+    [DATA] => Array
+        (
+            [TITLE] => Заказ Прайса Расходники
+        )
+
+    [NAME] => Тест
+    [PHONE_MOBILE] => 0676987247
+    [EMAIL_WORK] => 
+    [_ga] => GA1.2.616279458.1585907987
+    [_fbp] => fb.1.1585909156094.138572750
+    [BITRIX_SM_SALE_UID] => 1d22f813f421e85d8ce0468447530a66
+    [BITRIX_SM_LOGIN] => andriikonst.dp@gmail.com
+    [_fbc] => fb.1.1586507046070.IwAR1z-ycKZre__zfNik5Jp1BPaB5BpQ5R5U_Eij-TUPP45zjQ2g-nrTYFEpI
+    [_gid] => GA1.2.70067528.1586701301
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:22:38
+webform result
+Array
+(
+    [result] => 13751
+    [time] => Array
+        (
+            [start] => 1586740958.2545
+            [finish] => 1586740958.3877
+            [duration] => 0.13316011428833
+            [processing] => 0.11648607254028
+            [date_start] => 2020-04-13T04:22:38+03:00
+            [date_finish] => 2020-04-13T04:22:38+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:27:33
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [DATA] => Array
+        (
+            [TITLE] => Заказ Прайса Расходники
+        )
+
+    [NAME] => Тест
+    [PHONE_MOBILE] => 0662847994
+    [EMAIL_WORK] => 
+    [_ga] => GA1.2.616279458.1585907987
+    [_fbp] => fb.1.1585909156094.138572750
+    [BITRIX_SM_SALE_UID] => 1d22f813f421e85d8ce0468447530a66
+    [BITRIX_SM_LOGIN] => andriikonst.dp@gmail.com
+    [_fbc] => fb.1.1586507046070.IwAR1z-ycKZre__zfNik5Jp1BPaB5BpQ5R5U_Eij-TUPP45zjQ2g-nrTYFEpI
+    [_gid] => GA1.2.70067528.1586701301
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:27:33
+webform result
+Array
+(
+    [result] => 13753
+    [time] => Array
+        (
+            [start] => 1586741253.1881
+            [finish] => 1586741253.3147
+            [duration] => 0.12661385536194
+            [processing] => 0.10954618453979
+            [date_start] => 2020-04-13T04:27:33+03:00
+            [date_finish] => 2020-04-13T04:27:33+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:29:55
+webform PHP
+Array
+(
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент 
+        )
+
+    [title] => Заявка Лендинг Расходники
+    [EMAIL_WORK] => test@test.com
+    [PHONE_MOBILE] => 0662847994
+    [_ga] => GA1.2.616279458.1585907987
+    [_fbp] => fb.1.1585909156094.138572750
+    [BITRIX_SM_SALE_UID] => 1d22f813f421e85d8ce0468447530a66
+    [BITRIX_SM_LOGIN] => andriikonst.dp@gmail.com
+    [_fbc] => fb.1.1586507046070.IwAR1z-ycKZre__zfNik5Jp1BPaB5BpQ5R5U_Eij-TUPP45zjQ2g-nrTYFEpI
+    [_gid] => GA1.2.70067528.1586701301
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:29:55
+webform result
+Array
+(
+    [result] => 13755
+    [time] => Array
+        (
+            [start] => 1586741395.0824
+            [finish] => 1586741395.2181
+            [duration] => 0.13570594787598
+            [processing] => 0.1175811290741
+            [date_start] => 2020-04-13T04:29:55+03:00
+            [date_finish] => 2020-04-13T04:29:55+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:33:33
+webform PHP
+Array
+(
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент 
+        )
+
+    [title] => Заявка Лендинг Расходники
+    [EMAIL_WORK] => test@test.com
+    [PHONE_MOBILE] => 0662847994
+    [_ga] => GA1.2.616279458.1585907987
+    [_fbp] => fb.1.1585909156094.138572750
+    [BITRIX_SM_SALE_UID] => 1d22f813f421e85d8ce0468447530a66
+    [BITRIX_SM_LOGIN] => andriikonst.dp@gmail.com
+    [_fbc] => fb.1.1586507046070.IwAR1z-ycKZre__zfNik5Jp1BPaB5BpQ5R5U_Eij-TUPP45zjQ2g-nrTYFEpI
+    [_gid] => GA1.2.70067528.1586701301
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:33:34
+webform result
+Array
+(
+    [result] => 13757
+    [time] => Array
+        (
+            [start] => 1586741613.9449
+            [finish] => 1586741614.0817
+            [duration] => 0.13678503036499
+            [processing] => 0.12010788917542
+            [date_start] => 2020-04-13T04:33:33+03:00
+            [date_finish] => 2020-04-13T04:33:34+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:36:05
+webform PHP
+Array
+(
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент 
+        )
+
+    [title] => Заявка Лендинг Расходники
+    [EMAIL_WORK] => test@test.com
+    [PHONE_MOBILE] => 0662847994
+    [_ga] => GA1.2.616279458.1585907987
+    [_fbp] => fb.1.1585909156094.138572750
+    [BITRIX_SM_SALE_UID] => 1d22f813f421e85d8ce0468447530a66
+    [BITRIX_SM_LOGIN] => andriikonst.dp@gmail.com
+    [_fbc] => fb.1.1586507046070.IwAR1z-ycKZre__zfNik5Jp1BPaB5BpQ5R5U_Eij-TUPP45zjQ2g-nrTYFEpI
+    [_gid] => GA1.2.70067528.1586701301
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:36:05
+webform result
+Array
+(
+    [result] => 13759
+    [time] => Array
+        (
+            [start] => 1586741765.7102
+            [finish] => 1586741765.8613
+            [duration] => 0.15113687515259
+            [processing] => 0.12112903594971
+            [date_start] => 2020-04-13T04:36:05+03:00
+            [date_finish] => 2020-04-13T04:36:05+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:40:48
+webform PHP
+Array
+(
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [TITLE] => Gruza F1 заказ звонка Наш менеджер свяжется с Вами в течении 30 минут.
+    [title] => Заказ Звонка Лендинг Расходники
+    [NAME] => Тест
+    [PHONE_MOBILE] => 0662847994
+    [_ga] => GA1.2.616279458.1585907987
+    [_fbp] => fb.1.1585909156094.138572750
+    [BITRIX_SM_SALE_UID] => 1d22f813f421e85d8ce0468447530a66
+    [BITRIX_SM_LOGIN] => andriikonst.dp@gmail.com
+    [_fbc] => fb.1.1586507046070.IwAR1z-ycKZre__zfNik5Jp1BPaB5BpQ5R5U_Eij-TUPP45zjQ2g-nrTYFEpI
+    [_gid] => GA1.2.70067528.1586701301
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:40:49
+webform result
+Array
+(
+    [result] => 13761
+    [time] => Array
+        (
+            [start] => 1586742049.2572
+            [finish] => 1586742049.3787
+            [duration] => 0.12142491340637
+            [processing] => 0.10582208633423
+            [date_start] => 2020-04-13T04:40:49+03:00
+            [date_finish] => 2020-04-13T04:40:49+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:43:33
+webform PHP
+Array
+(
+    [TITLE] => Заявка Сообщение Лендинг
+    [NAME] => Andrey
+    [EMAIL_WORK] => test@test.com
+    [PHONE_MOBILE] => 7860876764
+    [DATA] => Array
+        (
+            [COMMENTS] => Hello
+        )
+
+    [_ga] => GA1.2.1189329407.1586460204
+    [_fbp] => fb.1.1586460204680.1960523934
+    [VALUTE] => Y
+    [_gid] => GA1.2.433466842.1586702901
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:43:34
+webform result
+Array
+(
+    [result] => 13763
+    [time] => Array
+        (
+            [start] => 1586742213.9621
+            [finish] => 1586742214.082
+            [duration] => 0.11983919143677
+            [processing] => 0.10300803184509
+            [date_start] => 2020-04-13T04:43:33+03:00
+            [date_finish] => 2020-04-13T04:43:34+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:45:56
+webform PHP
+Array
+(
+    [TITLE] => Заявка Сообщение Лендинг
+    [NAME] => Andrey
+    [EMAIL_WORK] => test@test.com
+    [PHONE_MOBILE] => 0987880098
+    [COMMENTS] => Hello
+    [_ga] => GA1.2.1189329407.1586460204
+    [_fbp] => fb.1.1586460204680.1960523934
+    [VALUTE] => Y
+    [_gid] => GA1.2.433466842.1586702901
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.04.13 1:45:56
+webform result
+Array
+(
+    [result] => 13765
+    [time] => Array
+        (
+            [start] => 1586742356.7489
+            [finish] => 1586742356.9011
+            [duration] => 0.15216708183289
+            [processing] => 0.13729000091553
+            [date_start] => 2020-04-13T04:45:56+03:00
+            [date_finish] => 2020-04-13T04:45:56+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.04.23 8:13:59
+webform PHP
+Array
+(
+    [TITLE] => Заявка Консультация. Лендинг: t.geleon.ua/gruza
+    [NAME] => Тест
+    [PHONE_MOBILE] => 0501110234
+    [_ga] => GA1.2.559792307.1587404837
+    [_gid] => GA1.2.658786590.1587404837
+    [_fbp] => fb.1.1587404837647.55966991
+    [VALUTE] => Y
+    [BITRIX_SM_LOGIN] => andriikonst.dp@gmail.com
+    [_ym_d] => 1587504494
+    [_ym_uid] => 1587504494458545635
+    [BITRIX_SM_SALE_UID] => 1d22f813f421e85d8ce0468447530a66
+    [_ym_isad] => 2
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.04.23 8:13:59
+webform result
+Array
+(
+    [result] => 13997
+    [time] => Array
+        (
+            [start] => 1587629639.4343
+            [finish] => 1587629639.5881
+            [duration] => 0.15372514724731
+            [processing] => 0.12518715858459
+            [date_start] => 2020-04-23T11:13:59+03:00
+            [date_finish] => 2020-04-23T11:13:59+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.09.29 8:18:18
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [DATA] => Array
+        (
+            [TITLE] => Заказ Прайса Расходники. Лендинг: t.geleon.ua/gruza
+        )
+
+    [NAME] => Валик
+    [PHONE_MOBILE] => 0967770088
+    [EMAIL_WORK] => 
+    [_ga] => GA1.2.1126512259.1601367158
+    [_gid] => GA1.2.43128041.1601367158
+    [_gac_UA-71715348-7] => 1.1601367158.Cj0KCQjwtsv7BRCmARIsANu-CQdOFpyz5yGqh5sdhn4x3RrFUeu2hrseJPEsgsLZ-qVVl505Q1CK1dkaAmDqEALw_wcB
+    [_gac_UA-71715348-5] => 1.1601367294.Cj0KCQjwtsv7BRCmARIsANu-CQfXJcd4Nsiqf6H3MgUKwvtYYq6qUQERgNw6VKfe9gwTnEVYuW9J_boaArfBEALw_wcB
+    [_fbp] => fb.1.1601367296480.271168987
+)
+
+------------------------
+
+------------------------
+2020.09.29 8:18:19
+webform result
+Array
+(
+    [result] => 16307
+    [time] => Array
+        (
+            [start] => 1601367498.683
+            [finish] => 1601367499.0919
+            [duration] => 0.40883803367615
+            [processing] => 0.36988019943237
+            [date_start] => 2020-09-29T11:18:18+03:00
+            [date_finish] => 2020-09-29T11:18:19+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 15:21:34
+webform PHP
+Array
+(
+    [title] => Заказ Звонка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [TITLE] => Gruza F1 заказ звонка Наш менеджер свяжется с Вами в течении 30 минут. Лендинг: t.geleon.ua/gruza
+    [name] => test
+    [telephone] => +38 (033) 333-33-33
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_visorc] => w
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 15:21:34
+webform result
+Array
+(
+    [result] => 18283
+    [time] => Array
+        (
+            [start] => 1608564094.5625
+            [finish] => 1608564094.887
+            [duration] => 0.32455682754517
+            [processing] => 0.28705811500549
+            [date_start] => 2020-12-21T18:21:34+03:00
+            [date_finish] => 2020-12-21T18:21:34+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 15:24:47
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => admin@mail.ru
+    [telephone] => +38 (033) 333-33-33
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_visorc] => w
+)
+
+------------------------
+
+------------------------
+2020.12.21 15:24:47
+webform result
+Array
+(
+    [result] => 18285
+    [time] => Array
+        (
+            [start] => 1608564287.5981
+            [finish] => 1608564287.8725
+            [duration] => 0.27434277534485
+            [processing] => 0.23838591575623
+            [date_start] => 2020-12-21T18:24:47+03:00
+            [date_finish] => 2020-12-21T18:24:47+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 15:25:12
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => admin@mail.ru
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_visorc] => w
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 15:25:12
+webform result
+Array
+(
+    [result] => 18287
+    [time] => Array
+        (
+            [start] => 1608564312.3304
+            [finish] => 1608564312.6091
+            [duration] => 0.27870917320251
+            [processing] => 0.25015711784363
+            [date_start] => 2020-12-21T18:25:12+03:00
+            [date_finish] => 2020-12-21T18:25:12+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 15:28:39
+webform PHP
+Array
+(
+    [shinomontazh] => Выберите шиномонтаж
+    [brend] => Выберите бренд
+    [tehnology] => Выберите технологию
+    [title] => Выберите материалы для шиноремонта
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => test
+    [telephone] => +38 (033) 333-33-33
+    [EMAIL_WORK] => 
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_visorc] => w
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 15:28:39
+webform result
+Array
+(
+    [result] => 18289
+    [time] => Array
+        (
+            [start] => 1608564519.3762
+            [finish] => 1608564519.5131
+            [duration] => 0.13685417175293
+            [processing] => 0.11474394798279
+            [date_start] => 2020-12-21T18:28:39+03:00
+            [date_finish] => 2020-12-21T18:28:39+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:07:42
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulg@a.alggmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:07:50
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulg@a.alggmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:07:50
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulg@a.alggmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:11:07
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gm.ai.lom
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:11:08
+webform result
+Array
+(
+    [result] => 18317
+    [time] => Array
+        (
+            [start] => 1608570668.0694
+            [finish] => 1608570668.2295
+            [duration] => 0.16004991531372
+            [processing] => 0.1390860080719
+            [date_start] => 2020-12-21T20:11:08+03:00
+            [date_finish] => 2020-12-21T20:11:08+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:12:12
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => qqq@wee.rr
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:12:13
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => qqq@wee.rr
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:12:17
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => qqq@wee.rr
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:12:18
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => qqq@wee.rr
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:12:25
+webform result
+Array
+(
+    [result] => 18319
+    [time] => Array
+        (
+            [start] => 1608570745.5528
+            [finish] => 1608570745.6867
+            [duration] => 0.133868932724
+            [processing] => 0.11529803276062
+            [date_start] => 2020-12-21T20:12:25+03:00
+            [date_finish] => 2020-12-21T20:12:25+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:13:00
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => rossvik
+    [tehnology] => 1step
+    [title] => Выберите материалы для шиноремонта
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => Геннадий 
+    [telephone] => +38 (011) 111-11-11
+    [EMAIL_WORK] => 
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 17:13:09
+webform result
+Array
+(
+    [result] => 18321
+    [time] => Array
+        (
+            [start] => 1608570788.0155
+            [finish] => 1608570788.1511
+            [duration] => 0.13560104370117
+            [processing] => 0.11485600471497
+            [date_start] => 2020-12-21T20:13:08+03:00
+            [date_finish] => 2020-12-21T20:13:08+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 19:03:35
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmailc.om
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 19:03:36
+webform result
+Array
+(
+    [result] => 18323
+    [time] => Array
+        (
+            [start] => 1608577415.809
+            [finish] => 1608577416.1267
+            [duration] => 0.31766104698181
+            [processing] => 0.29491186141968
+            [date_start] => 2020-12-21T22:03:35+03:00
+            [date_finish] => 2020-12-21T22:03:36+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 19:04:25
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmailc.om
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+)
+
+------------------------
+
+------------------------
+2020.12.21 19:04:25
+webform result
+Array
+(
+    [result] => 18325
+    [time] => Array
+        (
+            [start] => 1608577465.4712
+            [finish] => 1608577465.5997
+            [duration] => 0.12858390808105
+            [processing] => 0.10959887504578
+            [date_start] => 2020-12-21T22:04:25+03:00
+            [date_finish] => 2020-12-21T22:04:25+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 19:04:48
+webform PHP
+Array
+(
+    [shinomontazh] => Выберите шиномонтаж
+    [brend] => Выберите бренд
+    [tehnology] => Выберите технологию
+    [title] => Выберите материалы для шиноремонта
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => Геннадий 
+    [telephone] => +38 (011) 111-11-11
+    [EMAIL_WORK] => 
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 19:04:48
+webform result
+Array
+(
+    [result] => 18327
+    [time] => Array
+        (
+            [start] => 1608577488.1384
+            [finish] => 1608577488.2623
+            [duration] => 0.12392711639404
+            [processing] => 0.1027250289917
+            [date_start] => 2020-12-21T22:04:48+03:00
+            [date_finish] => 2020-12-21T22:04:48+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 19:08:23
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => rossvik
+    [tehnology] => hot
+    [title] => Выберите материалы для шиноремонта
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => Геннадий 
+    [telephone] => +38 (011) 111-11-11
+    [EMAIL_WORK] => 
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.21 19:08:23
+webform result
+Array
+(
+    [result] => 18329
+    [time] => Array
+        (
+            [start] => 1608577703.312
+            [finish] => 1608577703.4487
+            [duration] => 0.13674998283386
+            [processing] => 0.11497402191162
+            [date_start] => 2020-12-21T22:08:23+03:00
+            [date_finish] => 2020-12-21T22:08:23+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.21 19:08:53
+webform PHP
+Array
+(
+    [shinomontazh] => gruzovoy
+    [brend] => bestpatch
+    [tehnology] => 1step
+    [title] => Выберите материалы для шиноремонта
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => Ключ установки вентиля металлический
+    [telephone] => +38 (022) 222-22-22
+    [EMAIL_WORK] => 
+    [_ga] => GA1.2.574594681.1608559760
+    [_gid] => GA1.2.402338757.1608559760
+    [_fbp] => fb.1.1608560145431.1901907718
+)
+
+------------------------
+
+------------------------
+2020.12.21 19:08:54
+webform result
+Array
+(
+    [result] => 18331
+    [time] => Array
+        (
+            [start] => 1608577734.0684
+            [finish] => 1608577734.2085
+            [duration] => 0.14008712768555
+            [processing] => 0.1192901134491
+            [date_start] => 2020-12-21T22:08:54+03:00
+            [date_finish] => 2020-12-21T22:08:54+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 8:33:19
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => test
+    [telephone] => +38 (045) 354-35-45
+    [EMAIL_WORK] => 
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_ym_visorc_57585466] => w
+    [_gat_gtag_UA_71715348_9] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 8:33:19
+webform result
+Array
+(
+    [result] => 18359
+    [time] => Array
+        (
+            [start] => 1608625999.2023
+            [finish] => 1608625999.3832
+            [duration] => 0.18090009689331
+            [processing] => 0.15133786201477
+            [date_start] => 2020-12-22T11:33:19+03:00
+            [date_finish] => 2020-12-22T11:33:19+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 8:35:22
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => test
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_ym_visorc_57585466] => w
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 8:35:23
+webform result
+Array
+(
+    [result] => 18361
+    [time] => Array
+        (
+            [start] => 1608626123.0575
+            [finish] => 1608626123.1914
+            [duration] => 0.13386297225952
+            [processing] => 0.1142520904541
+            [date_start] => 2020-12-22T11:35:23+03:00
+            [date_finish] => 2020-12-22T11:35:23+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 9:07:38
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => test
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 9:07:39
+webform result
+Array
+(
+    [result] => 18365
+    [time] => Array
+        (
+            [start] => 1608628059.0125
+            [finish] => 1608628059.738
+            [duration] => 0.72548198699951
+            [processing] => 0.65655612945557
+            [date_start] => 2020-12-22T12:07:39+03:00
+            [date_finish] => 2020-12-22T12:07:39+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 9:12:38
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => test
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_gat_gtag_UA_71715348_9] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 9:12:39
+webform result
+Array
+(
+    [result] => 18369
+    [time] => Array
+        (
+            [start] => 1608628359.0838
+            [finish] => 1608628359.2155
+            [duration] => 0.13168692588806
+            [processing] => 0.11255598068237
+            [date_start] => 2020-12-22T12:12:39+03:00
+            [date_finish] => 2020-12-22T12:12:39+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 9:15:09
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => test
+    [telephone] => +38 (033) 333-33-33
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 9:15:09
+webform result
+Array
+(
+    [result] => 18371
+    [time] => Array
+        (
+            [start] => 1608628509.3672
+            [finish] => 1608628509.5209
+            [duration] => 0.15378713607788
+            [processing] => 0.13542723655701
+            [date_start] => 2020-12-22T12:15:09+03:00
+            [date_finish] => 2020-12-22T12:15:09+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 9:17:51
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => admin@mail.ru
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_ym_visorc] => w
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 9:17:51
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 9:18:30
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [NAME] => test
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_ym_visorc] => w
+)
+
+------------------------
+
+------------------------
+2020.12.22 9:18:30
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 9:26:00
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => test
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_ym_visorc] => w
+    [_gat_gtag_UA_71715348_9] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 9:26:00
+webform result
+Array
+(
+    [result] => 18381
+    [time] => Array
+        (
+            [start] => 1608629160.4033
+            [finish] => 1608629160.5682
+            [duration] => 0.16486120223999
+            [processing] => 0.14598512649536
+            [date_start] => 2020-12-22T12:26:00+03:00
+            [date_finish] => 2020-12-22T12:26:00+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:24:01
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => 1111@qdsds.tr
+    [telephone] => +38 (023) 333-33-33
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:24:01
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:24:33
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:24:33
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:25:12
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (022) 222-22-22
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:25:12
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:26:40
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (044) 444-44-44
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:26:40
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:26:51
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:26:51
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:27:12
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => rossvik
+    [tehnology] => hot
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => Александр Шульга
+    [telephone] => +38 (011) 111-11-11
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:27:12
+webform result
+Array
+(
+    [result] => 18389
+    [time] => Array
+        (
+            [start] => 1608636432.3925
+            [finish] => 1608636432.5413
+            [duration] => 0.14884901046753
+            [processing] => 0.12905406951904
+            [date_start] => 2020-12-22T14:27:12+03:00
+            [date_finish] => 2020-12-22T14:27:12+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:27:52
+webform PHP
+Array
+(
+    [title] => Заказ Звонка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [TITLE] => Gruza F1 заказ звонка Наш менеджер свяжется с Вами в течении 30 минут. Лендинг: t.geleon.ua/gruza
+    [name] => Александр Шульга
+    [telephone] => +38 (011) 111-11-11
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:27:52
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:28:39
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:28:39
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:28:52
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (066) 666-66-66
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:28:52
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:29:38
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => rossvik
+    [tehnology] => hot
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => Александр
+    [telephone] => +38 (011) 111-11-11
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:29:38
+webform result
+Array
+(
+    [result] => 18393
+    [time] => Array
+        (
+            [start] => 1608636578.6017
+            [finish] => 1608636578.7338
+            [duration] => 0.13208889961243
+            [processing] => 0.11267709732056
+            [date_start] => 2020-12-22T14:29:38+03:00
+            [date_finish] => 2020-12-22T14:29:38+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:30:16
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:30:16
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:31:59
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (012) 222-22-22
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:31:59
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:32:10
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (033) 333-33-33
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:32:10
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:32:28
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:32:28
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:32:41
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (077) 777-77-77
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:32:41
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:32:57
+webform PHP
+Array
+(
+    [shinomontazh] => no
+    [brend] => rossvik
+    [tehnology] => hot
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => Александр Шульга
+    [telephone] => +38 (088) 888-88-88
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:32:58
+webform result
+Array
+(
+    [result] => 18395
+    [time] => Array
+        (
+            [start] => 1608636778.0546
+            [finish] => 1608636778.2181
+            [duration] => 0.16353416442871
+            [processing] => 0.14192795753479
+            [date_start] => 2020-12-22T14:32:58+03:00
+            [date_finish] => 2020-12-22T14:32:58+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:35:53
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => admin@mail.ru
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_gat_gtag_UA_71715348_5] => 1
+    [_ym_visorc_49714474] => w
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:35:53
+webform result
+
+------------------------
+
+------------------------
+2020.12.22 11:36:45
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => admin@admin.com
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_gat_gtag_UA_71715348_5] => 1
+    [_ym_visorc_49714474] => w
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:36:45
+webform result
+Array
+(
+    [result] => 18401
+    [time] => Array
+        (
+            [start] => 1608637005.6995
+            [finish] => 1608637005.8429
+            [duration] => 0.14339709281921
+            [processing] => 0.12039589881897
+            [date_start] => 2020-12-22T14:36:45+03:00
+            [date_finish] => 2020-12-22T14:36:45+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:38:55
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (011) 111-11-11
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:38:56
+webform result
+Array
+(
+    [result] => 18403
+    [time] => Array
+        (
+            [start] => 1608637135.8349
+            [finish] => 1608637135.9848
+            [duration] => 0.14988780021667
+            [processing] => 0.12893319129944
+            [date_start] => 2020-12-22T14:38:55+03:00
+            [date_finish] => 2020-12-22T14:38:55+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:39:26
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (011) 111-11-11
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:39:26
+webform result
+Array
+(
+    [result] => 18405
+    [time] => Array
+        (
+            [start] => 1608637166.546
+            [finish] => 1608637166.7762
+            [duration] => 0.23014998435974
+            [processing] => 0.20369791984558
+            [date_start] => 2020-12-22T14:39:26+03:00
+            [date_finish] => 2020-12-22T14:39:26+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:39:51
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (022) 222-22-22
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:39:53
+webform result
+Array
+(
+    [result] => 18407
+    [time] => Array
+        (
+            [start] => 1608637192.8664
+            [finish] => 1608637193.0272
+            [duration] => 0.16079092025757
+            [processing] => 0.14040899276733
+            [date_start] => 2020-12-22T14:39:52+03:00
+            [date_finish] => 2020-12-22T14:39:53+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:40:13
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (033) 333-33-33
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:40:13
+webform result
+Array
+(
+    [result] => 18409
+    [time] => Array
+        (
+            [start] => 1608637213.6794
+            [finish] => 1608637213.8329
+            [duration] => 0.15352392196655
+            [processing] => 0.13358402252197
+            [date_start] => 2020-12-22T14:40:13+03:00
+            [date_finish] => 2020-12-22T14:40:13+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:40:35
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (044) 444-44-44
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:40:36
+webform result
+Array
+(
+    [result] => 18411
+    [time] => Array
+        (
+            [start] => 1608637236.3415
+            [finish] => 1608637236.5668
+            [duration] => 0.2252881526947
+            [processing] => 0.19235396385193
+            [date_start] => 2020-12-22T14:40:36+03:00
+            [date_finish] => 2020-12-22T14:40:36+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:41:45
+webform PHP
+Array
+(
+    [title] => Заказ Звонка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [TITLE] => Gruza F1 заказ звонка Наш менеджер свяжется с Вами в течении 30 минут. Лендинг: t.geleon.ua/gruza
+    [name] => Александр Шульга
+    [telephone] => +38 (050) 952-60-63
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:41:45
+webform result
+Array
+(
+    [result] => 18415
+    [time] => Array
+        (
+            [start] => 1608637305.4954
+            [finish] => 1608637305.6302
+            [duration] => 0.13478398323059
+            [processing] => 0.11337184906006
+            [date_start] => 2020-12-22T14:41:45+03:00
+            [date_finish] => 2020-12-22T14:41:45+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:42:36
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (066) 666-66-66
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:42:36
+webform result
+Array
+(
+    [result] => 18417
+    [time] => Array
+        (
+            [start] => 1608637356.5854
+            [finish] => 1608637356.7212
+            [duration] => 0.13586711883545
+            [processing] => 0.11750793457031
+            [date_start] => 2020-12-22T14:42:36+03:00
+            [date_finish] => 2020-12-22T14:42:36+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:42:51
+webform PHP
+Array
+(
+    [shinomontazh] => gruzovoy
+    [brend] => rossvik
+    [tehnology] => hot
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => Александр Шульга
+    [telephone] => +38 (077) 777-77-77
+    [_fbp] => fb.1.1608622305411.1344198541
+    [_ga] => GA1.2.771023480.1608622306
+    [_gid] => GA1.2.101409905.1608622306
+)
+
+------------------------
+
+------------------------
+2020.12.22 11:42:51
+webform result
+Array
+(
+    [result] => 18421
+    [time] => Array
+        (
+            [start] => 1608637371.2306
+            [finish] => 1608637371.3691
+            [duration] => 0.13845109939575
+            [processing] => 0.11739993095398
+            [date_start] => 2020-12-22T14:42:51+03:00
+            [date_finish] => 2020-12-22T14:42:51+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.23 8:21:29
+webform PHP
+Array
+(
+    [title] => Заказ Звонка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [TITLE] => Gruza F1 заказ звонка Наш менеджер свяжется с Вами в течении 30 минут. Лендинг: t.geleon.ua/gruza
+    [name] => test
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.23 8:21:29
+webform result
+Array
+(
+    [result] => 18515
+    [time] => Array
+        (
+            [start] => 1608711689.7464
+            [finish] => 1608711689.944
+            [duration] => 0.19755291938782
+            [processing] => 0.16880798339844
+            [date_start] => 2020-12-23T11:21:29+03:00
+            [date_finish] => 2020-12-23T11:21:29+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.23 8:22:30
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => admin@mail.ru
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.23 8:22:31
+webform result
+Array
+(
+    [result] => 18517
+    [time] => Array
+        (
+            [start] => 1608711750.8457
+            [finish] => 1608711751.0138
+            [duration] => 0.16814303398132
+            [processing] => 0.14835405349731
+            [date_start] => 2020-12-23T11:22:30+03:00
+            [date_finish] => 2020-12-23T11:22:31+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.23 8:24:04
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => test
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_49714474] => w
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.23 8:24:04
+webform result
+Array
+(
+    [result] => 18519
+    [time] => Array
+        (
+            [start] => 1608711844.4566
+            [finish] => 1608711844.6185
+            [duration] => 0.16192603111267
+            [processing] => 0.14198994636536
+            [date_start] => 2020-12-23T11:24:04+03:00
+            [date_finish] => 2020-12-23T11:24:04+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.23 21:56:13
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (011) 111-11-11
+    [_gid] => GA1.2.1530165738.1608462954
+    [_fbp] => fb.1.1608462954248.1856643515
+    [_fbc] => fb.1.1608463043316.IwAR0vTst-t2CWOYYILltsyNF39or0DX3AoG_LpeBzIYaWdJqVNfjDBZBqXW4
+    [VALUTE] => Y
+    [BITRIX_SM_SALE_UID] => 76ddf398a55aa10c97eab67313704d9d
+    [BITRIX_SM_LOGIN] => shulga
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [_ga_TTWM11G775] => GS1.1.1608569440.4.0.1608569440.60
+    [_ga] => GA1.2.1742789392.1608462954
+    [PHPSESSID] => a2e7ff66040f939003fc6e73bda3e5a7
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.23 21:56:14
+webform result
+Array
+(
+    [result] => 18555
+    [time] => Array
+        (
+            [start] => 1608760574.033
+            [finish] => 1608760574.7563
+            [duration] => 0.72330498695374
+            [processing] => 0.67186999320984
+            [date_start] => 2020-12-24T00:56:14+03:00
+            [date_finish] => 2020-12-24T00:56:14+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.23 22:00:56
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_gid] => GA1.2.1530165738.1608462954
+    [_fbp] => fb.1.1608462954248.1856643515
+    [_fbc] => fb.1.1608463043316.IwAR0vTst-t2CWOYYILltsyNF39or0DX3AoG_LpeBzIYaWdJqVNfjDBZBqXW4
+    [VALUTE] => Y
+    [BITRIX_SM_SALE_UID] => 76ddf398a55aa10c97eab67313704d9d
+    [BITRIX_SM_LOGIN] => shulga
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [_ga_TTWM11G775] => GS1.1.1608569440.4.0.1608569440.60
+    [_ga] => GA1.2.1742789392.1608462954
+    [PHPSESSID] => a2e7ff66040f939003fc6e73bda3e5a7
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.23 22:00:57
+webform result
+Array
+(
+    [result] => 18557
+    [time] => Array
+        (
+            [start] => 1608760856.8765
+            [finish] => 1608760857.2803
+            [duration] => 0.40381002426147
+            [processing] => 0.37088513374329
+            [date_start] => 2020-12-24T01:00:56+03:00
+            [date_finish] => 2020-12-24T01:00:57+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.24 12:44:24
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => rossvik
+    [tehnology] => cool
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => Александр
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.443247597.1608813803
+    [_gid] => GA1.2.36831304.1608813803
+    [_fbp] => fb.1.1608813804445.557459516
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.24 12:44:25
+webform result
+Array
+(
+    [result] => 18581
+    [time] => Array
+        (
+            [start] => 1608813864.6008
+            [finish] => 1608813865.0504
+            [duration] => 0.44962191581726
+            [processing] => 0.39795303344727
+            [date_start] => 2020-12-24T15:44:24+03:00
+            [date_finish] => 2020-12-24T15:44:25+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.24 12:45:54
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.443247597.1608813803
+    [_gid] => GA1.2.36831304.1608813803
+    [_fbp] => fb.1.1608813804445.557459516
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.24 12:45:54
+webform result
+Array
+(
+    [result] => 18583
+    [time] => Array
+        (
+            [start] => 1608813954.2854
+            [finish] => 1608813954.4586
+            [duration] => 0.1732280254364
+            [processing] => 0.15589594841003
+            [date_start] => 2020-12-24T15:45:54+03:00
+            [date_finish] => 2020-12-24T15:45:54+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.24 13:13:28
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => admin@mail.ru
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_57585466] => w
+    [_ym_visorc_49714474] => w
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.24 13:13:28
+webform result
+Array
+(
+    [result] => 18593
+    [time] => Array
+        (
+            [start] => 1608815608.4528
+            [finish] => 1608815608.7938
+            [duration] => 0.34102296829224
+            [processing] => 0.30539298057556
+            [date_start] => 2020-12-24T16:13:28+03:00
+            [date_finish] => 2020-12-24T16:13:28+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.24 13:13:49
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => admin@mail.ru
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_57585466] => w
+    [_ym_visorc_49714474] => w
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.24 13:13:50
+webform result
+Array
+(
+    [result] => 18595
+    [time] => Array
+        (
+            [start] => 1608815629.9525
+            [finish] => 1608815630.1201
+            [duration] => 0.16769099235535
+            [processing] => 0.14510893821716
+            [date_start] => 2020-12-24T16:13:49+03:00
+            [date_finish] => 2020-12-24T16:13:50+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.24 13:14:26
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tiptop
+    [tehnology] => cool
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => test
+    [telephone] => +38 (055) 555-55-55
+    [_fbp] => fb.1.1607812647323.1619077354
+    [_ym_d] => 1607848213
+    [_ym_uid] => 1607848213350978261
+    [_gid] => GA1.2.1351328727.1608464064
+    [_ga_TTWM11G775] => GS1.1.1608555409.10.1.1608559353.27
+    [_ga] => GA1.2.1211345155.1607812646
+    [_ym_isad] => 2
+    [_ym_visorc_57585466] => w
+    [_ym_visorc_49714474] => w
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.24 13:14:26
+webform result
+Array
+(
+    [result] => 18597
+    [time] => Array
+        (
+            [start] => 1608815666.6029
+            [finish] => 1608815666.7511
+            [duration] => 0.14820289611816
+            [processing] => 0.13004112243652
+            [date_start] => 2020-12-24T16:14:26+03:00
+            [date_finish] => 2020-12-24T16:14:26+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.24 13:17:12
+webform PHP
+Array
+(
+    [title] => Заказ Звонка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [TITLE] => Gruza F1 заказ звонка Наш менеджер свяжется с Вами в течении 30 минут. Лендинг: t.geleon.ua/gruza
+    [name] => Тест1
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.443247597.1608813803
+    [_gid] => GA1.2.36831304.1608813803
+    [_fbp] => fb.1.1608813804445.557459516
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.24 13:17:12
+webform result
+Array
+(
+    [result] => 18599
+    [time] => Array
+        (
+            [start] => 1608815832.1515
+            [finish] => 1608815832.2957
+            [duration] => 0.14420795440674
+            [processing] => 0.12621784210205
+            [date_start] => 2020-12-24T16:17:12+03:00
+            [date_finish] => 2020-12-24T16:17:12+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.24 20:48:19
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.443247597.1608813803
+    [_gid] => GA1.2.36831304.1608813803
+    [_fbp] => fb.1.1608813804445.557459516
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.24 20:48:20
+webform result
+Array
+(
+    [result] => 18609
+    [time] => Array
+        (
+            [start] => 1608842899.7989
+            [finish] => 1608842900.2784
+            [duration] => 0.47950911521912
+            [processing] => 0.44802403450012
+            [date_start] => 2020-12-24T23:48:19+03:00
+            [date_finish] => 2020-12-24T23:48:20+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 10:49:42
+webform PHP
+Array
+(
+    [title] => Заказ Звонка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [TITLE] => Gruza F1 заказ звонка Наш менеджер свяжется с Вами в течении 30 минут. Лендинг: t.geleon.ua/gruza
+    [name] => ТестФормы5
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.1249809331.1603963805
+    [_fbp] => fb.1.1607767074856.949565279
+    [_ym_uid] => 160857344752922120
+    [_ym_d] => 1608573447
+    [_gid] => GA1.2.1166080715.1608893225
+    [_gat_gtag_UA_71715348_5] => 1
+    [_gat_gtag_UA_71715348_10] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 10:49:42
+webform result
+Array
+(
+    [result] => 18631
+    [time] => Array
+        (
+            [start] => 1608893382.2894
+            [finish] => 1608893382.4393
+            [duration] => 0.14981198310852
+            [processing] => 0.12908697128296
+            [date_start] => 2020-12-25T13:49:42+03:00
+            [date_finish] => 2020-12-25T13:49:42+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 10:50:16
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => 1111@gggg.ttt
+    [telephone] => +38 (022) 222-22-22
+    [_ga] => GA1.2.1249809331.1603963805
+    [_fbp] => fb.1.1607767074856.949565279
+    [_ym_uid] => 160857344752922120
+    [_ym_d] => 1608573447
+    [_gid] => GA1.2.1166080715.1608893225
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 10:50:16
+webform result
+Array
+(
+    [result] => 18633
+    [time] => Array
+        (
+            [start] => 1608893416.5594
+            [finish] => 1608893416.6862
+            [duration] => 0.12673807144165
+            [processing] => 0.10828304290771
+            [date_start] => 2020-12-25T13:50:16+03:00
+            [date_finish] => 2020-12-25T13:50:16+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 10:50:44
+webform PHP
+Array
+(
+    [shinomontazh] => gruzovoy
+    [brend] => tech
+    [tehnology] => 2step
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => ТестФормы1
+    [telephone] => +38 (033) 333-33-33
+    [_ga] => GA1.2.1249809331.1603963805
+    [_fbp] => fb.1.1607767074856.949565279
+    [_ym_uid] => 160857344752922120
+    [_ym_d] => 1608573447
+    [_gid] => GA1.2.1166080715.1608893225
+    [_gat_gtag_UA_71715348_5] => 1
+    [_gat_gtag_UA_71715348_10] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 10:50:44
+webform result
+Array
+(
+    [result] => 18635
+    [time] => Array
+        (
+            [start] => 1608893444.3121
+            [finish] => 1608893444.4709
+            [duration] => 0.1587700843811
+            [processing] => 0.14032793045044
+            [date_start] => 2020-12-25T13:50:44+03:00
+            [date_finish] => 2020-12-25T13:50:44+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 10:51:30
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => 33444@ttt.rr
+    [telephone] => +38 (044) 444-44-44
+    [_ga] => GA1.2.1249809331.1603963805
+    [_fbp] => fb.1.1607767074856.949565279
+    [_ym_uid] => 160857344752922120
+    [_ym_d] => 1608573447
+    [_gid] => GA1.2.1166080715.1608893225
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 10:51:31
+webform result
+Array
+(
+    [result] => 18637
+    [time] => Array
+        (
+            [start] => 1608893491.1294
+            [finish] => 1608893491.2641
+            [duration] => 0.13468503952026
+            [processing] => 0.11667919158936
+            [date_start] => 2020-12-25T13:51:31+03:00
+            [date_finish] => 2020-12-25T13:51:31+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:00:59
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.algen@gmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.1249809331.1603963805
+    [_fbp] => fb.1.1607767074856.949565279
+    [_ym_uid] => 160857344752922120
+    [_ym_d] => 1608573447
+    [_gid] => GA1.2.1166080715.1608893225
+    [_gat_gtag_UA_71715348_5] => 1
+    [_gat_gtag_UA_71715348_10] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:00:59
+webform result
+Array
+(
+    [result] => 18667
+    [time] => Array
+        (
+            [start] => 1608894059.1709
+            [finish] => 1608894059.3156
+            [duration] => 0.14474105834961
+            [processing] => 0.12611198425293
+            [date_start] => 2020-12-25T14:00:59+03:00
+            [date_finish] => 2020-12-25T14:00:59+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:01:27
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (033) 333-33-33
+    [_ga] => GA1.2.1249809331.1603963805
+    [_fbp] => fb.1.1607767074856.949565279
+    [_ym_uid] => 160857344752922120
+    [_ym_d] => 1608573447
+    [_gid] => GA1.2.1166080715.1608893225
+    [_gat_gtag_UA_71715348_5] => 1
+    [_gat_gtag_UA_71715348_10] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:01:27
+webform result
+Array
+(
+    [result] => 18669
+    [time] => Array
+        (
+            [start] => 1608894087.221
+            [finish] => 1608894087.3535
+            [duration] => 0.13253998756409
+            [processing] => 0.11361908912659
+            [date_start] => 2020-12-25T14:01:27+03:00
+            [date_finish] => 2020-12-25T14:01:27+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:02:22
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => tech
+    [tehnology] => 2step
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => ТестФормы1
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.1249809331.1603963805
+    [_fbp] => fb.1.1607767074856.949565279
+    [_ym_uid] => 160857344752922120
+    [_ym_d] => 1608573447
+    [_gid] => GA1.2.1166080715.1608893225
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:02:22
+webform result
+Array
+(
+    [result] => 18671
+    [time] => Array
+        (
+            [start] => 1608894142.6573
+            [finish] => 1608894142.8155
+            [duration] => 0.15819311141968
+            [processing] => 0.13562703132629
+            [date_start] => 2020-12-25T14:02:22+03:00
+            [date_finish] => 2020-12-25T14:02:22+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:02:46
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => test4@gmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.1249809331.1603963805
+    [_fbp] => fb.1.1607767074856.949565279
+    [_ym_uid] => 160857344752922120
+    [_ym_d] => 1608573447
+    [_gid] => GA1.2.1166080715.1608893225
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:02:46
+webform result
+Array
+(
+    [result] => 18673
+    [time] => Array
+        (
+            [start] => 1608894166.4402
+            [finish] => 1608894166.6048
+            [duration] => 0.16460299491882
+            [processing] => 0.14466691017151
+            [date_start] => 2020-12-25T14:02:46+03:00
+            [date_finish] => 2020-12-25T14:02:46+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:03:50
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (066) 666-66-66
+    [_gid] => GA1.2.1530165738.1608462954
+    [_fbp] => fb.1.1608462954248.1856643515
+    [_fbc] => fb.1.1608463043316.IwAR0vTst-t2CWOYYILltsyNF39or0DX3AoG_LpeBzIYaWdJqVNfjDBZBqXW4
+    [BITRIX_SM_SALE_UID] => 76ddf398a55aa10c97eab67313704d9d
+    [BITRIX_SM_LOGIN] => shulga
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [_ga_TTWM11G775] => GS1.1.1608569440.4.0.1608569440.60
+    [_ga] => GA1.2.1742789392.1608462954
+    [PHPSESSID] => a2e7ff66040f939003fc6e73bda3e5a7
+    [_gat_gtag_UA_71715348_11] => 1
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:03:50
+webform result
+Array
+(
+    [result] => 18675
+    [time] => Array
+        (
+            [start] => 1608894230.7565
+            [finish] => 1608894230.9125
+            [duration] => 0.1560070514679
+            [processing] => 0.13316607475281
+            [date_start] => 2020-12-25T14:03:50+03:00
+            [date_finish] => 2020-12-25T14:03:50+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:04:13
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (066) 666-66-66
+    [_gid] => GA1.2.1530165738.1608462954
+    [_fbp] => fb.1.1608462954248.1856643515
+    [_fbc] => fb.1.1608463043316.IwAR0vTst-t2CWOYYILltsyNF39or0DX3AoG_LpeBzIYaWdJqVNfjDBZBqXW4
+    [BITRIX_SM_SALE_UID] => 76ddf398a55aa10c97eab67313704d9d
+    [BITRIX_SM_LOGIN] => shulga
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [_ga_TTWM11G775] => GS1.1.1608569440.4.0.1608569440.60
+    [_ga] => GA1.2.1742789392.1608462954
+    [PHPSESSID] => a2e7ff66040f939003fc6e73bda3e5a7
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:04:13
+webform result
+Array
+(
+    [result] => 18677
+    [time] => Array
+        (
+            [start] => 1608894253.1567
+            [finish] => 1608894253.2841
+            [duration] => 0.1274721622467
+            [processing] => 0.10679984092712
+            [date_start] => 2020-12-25T14:04:13+03:00
+            [date_finish] => 2020-12-25T14:04:13+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:04:46
+webform PHP
+Array
+(
+    [title] => Заказ Звонка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [TITLE] => Gruza F1 заказ звонка Наш менеджер свяжется с Вами в течении 30 минут. Лендинг: t.geleon.ua/gruza
+    [name] => Александр Шульга
+    [telephone] => +38 (033) 333-33-33
+    [_gid] => GA1.2.1530165738.1608462954
+    [_fbp] => fb.1.1608462954248.1856643515
+    [_fbc] => fb.1.1608463043316.IwAR0vTst-t2CWOYYILltsyNF39or0DX3AoG_LpeBzIYaWdJqVNfjDBZBqXW4
+    [BITRIX_SM_SALE_UID] => 76ddf398a55aa10c97eab67313704d9d
+    [BITRIX_SM_LOGIN] => shulga
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [_ga_TTWM11G775] => GS1.1.1608569440.4.0.1608569440.60
+    [_ga] => GA1.2.1742789392.1608462954
+    [PHPSESSID] => a2e7ff66040f939003fc6e73bda3e5a7
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 11:04:46
+webform result
+Array
+(
+    [result] => 18679
+    [time] => Array
+        (
+            [start] => 1608894286.6646
+            [finish] => 1608894286.799
+            [duration] => 0.13439917564392
+            [processing] => 0.11487197875977
+            [date_start] => 2020-12-25T14:04:46+03:00
+            [date_finish] => 2020-12-25T14:04:46+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 22:45:43
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.1576701686.1608926947
+    [_gid] => GA1.2.738948345.1608926947
+    [_fbp] => fb.1.1608926946916.1984136873
+    [_gat_gtag_UA_71715348_9] => 1
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 22:45:43
+webform result
+Array
+(
+    [result] => 18715
+    [time] => Array
+        (
+            [start] => 1608936343.6835
+            [finish] => 1608936343.8252
+            [duration] => 0.14172697067261
+            [processing] => 0.12402009963989
+            [date_start] => 2020-12-26T01:45:43+03:00
+            [date_finish] => 2020-12-26T01:45:43+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.25 22:46:54
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.2.1576701686.1608926947
+    [_gid] => GA1.2.738948345.1608926947
+    [_fbp] => fb.1.1608926946916.1984136873
+    [_gat_gtag_UA_71715348_3] => 1
+    [_gat_gtag_UA_71715348_9] => 1
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.25 22:46:55
+webform result
+Array
+(
+    [result] => 18719
+    [time] => Array
+        (
+            [start] => 1608936415.0833
+            [finish] => 1608936415.2316
+            [duration] => 0.14828777313232
+            [processing] => 0.12625217437744
+            [date_start] => 2020-12-26T01:46:55+03:00
+            [date_finish] => 2020-12-26T01:46:55+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:02:43
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (011) 111-11-11
+    [_fbp] => fb.1.1608980277591.1906791981
+    [_ga] => GA1.2.1874246269.1608980279
+    [_gid] => GA1.2.576178849.1608980279
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:02:44
+webform result
+Array
+(
+    [result] => 18781
+    [time] => Array
+        (
+            [start] => 1608980564.1243
+            [finish] => 1608980564.2456
+            [duration] => 0.12134599685669
+            [processing] => 0.10293197631836
+            [date_start] => 2020-12-26T14:02:44+03:00
+            [date_finish] => 2020-12-26T14:02:44+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:03:24
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => herralexx@mail.ru
+    [telephone] => +38 (088) 888-88-88
+    [_fbp] => fb.1.1608980277591.1906791981
+    [_ga] => GA1.2.1874246269.1608980279
+    [_gid] => GA1.2.576178849.1608980279
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:03:25
+webform result
+Array
+(
+    [result] => 18783
+    [time] => Array
+        (
+            [start] => 1608980604.8919
+            [finish] => 1608980605.0156
+            [duration] => 0.12369322776794
+            [processing] => 0.10351991653442
+            [date_start] => 2020-12-26T14:03:24+03:00
+            [date_finish] => 2020-12-26T14:03:25+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:03:55
+webform PHP
+Array
+(
+    [shinomontazh] => legkovoy
+    [brend] => rossvik
+    [tehnology] => 1step
+    [title] => Заказ прайса расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [name] => ТестФормы1
+    [telephone] => +38 (023) 232-32-23
+    [_fbp] => fb.1.1608980277591.1906791981
+    [_ga] => GA1.2.1874246269.1608980279
+    [_gid] => GA1.2.576178849.1608980279
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:03:56
+webform result
+Array
+(
+    [result] => 18785
+    [time] => Array
+        (
+            [start] => 1608980635.9729
+            [finish] => 1608980636.1092
+            [duration] => 0.13634490966797
+            [processing] => 0.11658787727356
+            [date_start] => 2020-12-26T14:03:55+03:00
+            [date_finish] => 2020-12-26T14:03:56+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:04:23
+webform PHP
+Array
+(
+    [title] => Заказ Звонка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [TITLE] => Gruza F1 заказ звонка Наш менеджер свяжется с Вами в течении 30 минут. Лендинг: t.geleon.ua/gruza
+    [name] => Alexandr
+    [telephone] => +38 (067) 676-76-76
+    [_fbp] => fb.1.1608980277591.1906791981
+    [_ga] => GA1.2.1874246269.1608980279
+    [_gid] => GA1.2.576178849.1608980279
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:04:23
+webform result
+Array
+(
+    [result] => 18787
+    [time] => Array
+        (
+            [start] => 1608980663.6627
+            [finish] => 1608980663.8017
+            [duration] => 0.13898992538452
+            [processing] => 0.12074208259583
+            [date_start] => 2020-12-26T14:04:23+03:00
+            [date_finish] => 2020-12-26T14:04:23+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:04:58
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => test2@gmail.com
+    [telephone] => +38 (022) 222-66-66
+    [_fbp] => fb.1.1608980277591.1906791981
+    [_ga] => GA1.2.1874246269.1608980279
+    [_gid] => GA1.2.576178849.1608980279
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:04:58
+webform result
+Array
+(
+    [result] => 18789
+    [time] => Array
+        (
+            [start] => 1608980698.7644
+            [finish] => 1608980698.9051
+            [duration] => 0.14067697525024
+            [processing] => 0.12200999259949
+            [date_start] => 2020-12-26T14:04:58+03:00
+            [date_finish] => 2020-12-26T14:04:58+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:14:22
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => traffic_rm1
+    [utm_medium] => video_click1
+    [utm_source] => facebook11
+    [utm_content] => fb_guests1
+    [utm_term] => fb_g111
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_gid] => GA1.2.1530165738.1608462954
+    [_fbp] => fb.1.1608462954248.1856643515
+    [_fbc] => fb.1.1608463043316.IwAR0vTst-t2CWOYYILltsyNF39or0DX3AoG_LpeBzIYaWdJqVNfjDBZBqXW4
+    [BITRIX_SM_SALE_UID] => 76ddf398a55aa10c97eab67313704d9d
+    [BITRIX_SM_LOGIN] => shulga
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [_ga_TTWM11G775] => GS1.1.1608569440.4.0.1608569440.60
+    [_ga] => GA1.2.1742789392.1608462954
+    [PHPSESSID] => a2e7ff66040f939003fc6e73bda3e5a7
+    [VALUTE] => Y
+    [_ym_uid] => 1608981058948446938
+    [_ym_d] => 1608981058
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2020.12.26 11:14:22
+webform result
+Array
+(
+    [result] => 18797
+    [time] => Array
+        (
+            [start] => 1608981262.4472
+            [finish] => 1608981262.6214
+            [duration] => 0.17418694496155
+            [processing] => 0.15421199798584
+            [date_start] => 2020-12-26T14:14:22+03:00
+            [date_finish] => 2020-12-26T14:14:22+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2021.01.14 20:54:24
+webform PHP
+Array
+(
+    [title] => Заявка Лендинг Расходники
+    [utm_campaign] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_content] => 
+    [utm_term] => 
+    [DATA] => Array
+        (
+            [TITLE] => Gruza F2 прайс-лист на весь ассортимент. Лендинг: t.geleon.ua/gruza
+        )
+
+    [email] => shulga.alg@gmail.com
+    [telephone] => +38 (011) 111-11-11
+    [_fbp] => fb.1.1610300551124.407601710
+    [_ga_N687678LE1] => GS1.1.1610382401.4.0.1610382401.0
+    [VALUTE] => Y
+    [_ga] => GA1.2.1185486538.1610300551
+    [_gid] => GA1.2.1418153138.1610574710
+    [BITRIX_SM_SALE_UID] => 76ddf398a55aa10c97eab67313704d9d
+    [BITRIX_SM_LOGIN] => shulga
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [PHPSESSID] => deda43727b6893b1d3ac881330e04107
+    [_gat_gtag_UA_71715348_10] => 1
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2021.01.14 20:54:25
+webform result
+Array
+(
+    [result] => 18965
+    [time] => Array
+        (
+            [start] => 1610657664.4505
+            [finish] => 1610657665.6532
+            [duration] => 1.2027380466461
+            [processing] => 1.1528491973877
+            [date_start] => 2021-01-14T23:54:24+03:00
+            [date_finish] => 2021-01-14T23:54:25+03:00
+        )
+
+)
+
+------------------------
