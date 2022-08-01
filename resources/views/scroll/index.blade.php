@@ -37,7 +37,8 @@
                     <td><p class="bg-success">{{$Scroll->typeScroll}}</p></td>
                     <td><p class="bg-success">{{$Scroll->formId}}</p></td>                    
                     <td><p class="bg-success">{{$Scroll->Imagepath}}</p></td>
-                    <td><p class="bg-success">{{$Scroll->html}}</p></td>
+                    <td><textarea wrap="off" cols="40" rows="10" disabled>{{$Scroll->html}}</textarea></td>
+                    
                     <td>
                     
                         <a class="btn btn-default" href="{{route('scroll.edit',[$Scroll->id])}}">Edit</a>                        
