@@ -34,4 +34,8 @@
     .field-main {
       @apply border-blue-300  border-2   bg-blue-50 w-64;
     }
+    .btn-link {
+        @apply transition decoration-1 text-blue-600;
+      }
+
   }
