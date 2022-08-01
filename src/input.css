@@ -19,7 +19,7 @@
   }
 
   @layer components {
-    .btn-main {
+    .bg-success {
       @apply transition duration-500 ease-in-out bg-gray-100 hover:bg-blue-500 transform  hover:scale-110
       rounded-lg mx-2 px-2;
     }

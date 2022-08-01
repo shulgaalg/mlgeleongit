@@ -10,6 +10,7 @@
             <tr>
                    <th>Id</th>
                     <th>Name</th>
+                    <th>Header</th>
                     <th>Description</th>
             </tr>            
         </thead>
