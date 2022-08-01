@@ -12,9 +12,11 @@
                     <th>Name</th>
                     <th>Header</th>
                     <th>Description</th>
+                    <th></th>
+                    <th></th>
             </tr>            
         </thead>
-        <tbody>
+        <tbody >
             @if(!empty($Groups))
             @if(count($Groups))
                 @foreach($Groups as $Group)
@@ -26,18 +28,18 @@
                         </a>
                     </td>
                     <td><p class="bg-success">{{$Group->nameHeader}}</p></td>                    
-                    <td>                  
+                 
                     <td><p class="bg-success">{{$Group->description}}</p></td>                    
                     <td>
                     
-                        <a class="btn btn-default" href="{{route('group.edit',[$Group->id])}}">Edit</a>                        
+                        <a class="btn-main" href="{{route('group.edit',[$Group->id])}}">Edit</a>                        
   
                     </td>
                     <td>
                         <form method="post" action="{{route('group.destroy',[$Group->id])}}">
                             {{csrf_field()}}
                             {{method_field('delete')}}
-                            <input type="submit" value="Delete" class="btn btn-danger">
+                            <input type="submit" value="Delete" class="btn-del">
                         </form>
                                             
                     </td>
