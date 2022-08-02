@@ -15,76 +15,10 @@
 	<!-- <link rel="stylesheet" href="/templates/protostar/css/onepage-scroll.css"> -->
 	<meta name="description" content="Все для шиномонтажа, латки для шиномонтажа, латки Россвик, клей Типтоп, материалы для шиномонтажа, все для ремонта колес" />
 	<link href="https://geleon.ua/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-	<!-- Yandex.Metrika counter -->
-<!-- 	<script type="text/javascript">
-		(function(d, w, c) {
-			(w[c] = w[c] || []).push(function() {
-				try {
-					w.yaCounter49714474 = new Ya.Metrika2({
-						id: 49714474,
-						clickmap: true,
-						trackLinks: true,
-						accurateTrackBounce: true,
-						webvisor: true,
-						trackHash: true
-					});
-				} catch(e) {}
-			});
-			var n = d.getElementsByTagName("script")[0],
-				s = d.createElement("script"),
-				f = function() {
-					n.parentNode.insertBefore(s, n);
-				};
-			s.type = "text/javascript";
-			s.async = true;
-			s.src = "https://d31j93rd8oukbv.cloudfront.net/metrika/watch_ua.js";
-			if(w.opera == "[object Opera]") {
-				d.addEventListener("DOMContentLoaded", f, false);
-			} else {
-				f();
-			}
-		})(document, window, "yandex_metrika_callbacks2");
-	</script>
-	<noscript>
-		<div><img src="https://mc.yandex.ru/watch/49714474" style="position:absolute; left:-9999px;" alt="" /></div>
-	</noscript> -->
-	<!-- /Yandex.Metrika counter -->
-	<!-- ManyChat -->
-	<!--<script src="//widget.manychat.com/666713993513119.js" async="async">
-	</script> 
-	<script src="https://www.google.com/recaptcha/api.js?render=6LdtT-gUAAAAAEH-0q6THR84WG0Zilk1yhdANbAR"></script>
-	<script>
-		grecaptcha.ready(function() {
-			grecaptcha.execute('6LdtT-gUAAAAAEH-0q6THR84WG0Zilk1yhdANbAR', {
-				action: 'homepage'
-			}).then(function(token) {});
-		});
-	</script>-->
 </head>
 
+
 <body>
-	<!-- Yandex.Metrika counter 
-	<script type="text/javascript">
-	(function(m, e, t, r, i, k, a) {
-		m[i] = m[i] || function() {
-			(m[i].a = m[i].a || []).push(arguments)
-		};
-		m[i].l = 1 * new Date();
-		k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
-	})
-	(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-	ym(57585466, "init", {
-		clickmap: true,
-		trackLinks: true,
-		accurateTrackBounce: true,
-		webvisor: true,
-		ecommerce: "dataLayer"
-	});
-	</script>
-	<noscript>
-		<div><img src="https://mc.yandex.ru/watch/57585466" style="position:absolute; left:-9999px;" alt="" /></div>
-	</noscript>
-	 /Yandex.Metrika counter -->
 	<!-- PHONE FOR REG USER -->
 	<script src="/jquery.maskedinput.js"></script>
 	<script>
@@ -93,17 +27,6 @@
 	});
 	</script>
 	<!-- PHONE FOR REG USER -->
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71715348-5"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-
-	function gtag() {
-		dataLayer.push(arguments);
-	}
-	gtag('js', new Date());
-	gtag('config', 'UA-71715348-5');
-	</script>
 	<section id="step1">
 		<div id="header">
 			<div id="logo" style="" class="default-logo"> <img src="/images/logo.png" /> </div>
@@ -691,21 +614,7 @@
 	fbq('track', 'PageView');
 	</script>
 	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=566164276887289&ev=PageView&noscript=1" /></noscript>
-	<!-- DO NOT MODIFY -->
-	<!-- End Facebook Pixel Code -->
-	<!--<script type="text/javascript">
-  (function(d, w, s) {
-	var widgetHash = 'cdgvwgga9ydd941ypxmv', gcw = d.createElement(s); gcw.type = 'text/javascript'; gcw.async = true;
-	gcw.src = '//widgets.binotel.com/getcall/widgets/'+ widgetHash +'.js';
-	var sn = d.getElementsByTagName(s)[0]; sn.parentNode.insertBefore(gcw, sn);
-  })(document, window, 'script');
-</script> 
- <script data-skip-moving="true">
-        (function(w,d,u){
-                var s=d.createElement('script');s.async=1;s.src=u+'?'+(Date.now()/60000|0);
-                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-        })(window,document,'https://cdn.bitrix24.ua/b5556387/crm/site_button/loader_4_0elfqc.js');
-</script>  -->
+	
 	<script>
 	  function validate(form_id,email) {
 	   var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;

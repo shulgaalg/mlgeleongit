@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/all', [App\Http\Controllers\viewAllScrollsController::class,'showAll']);
 
-Route::get('/land', [App\Http\Controllers\viewAllScrollsController::class,'Landing']);
+Route::get('/land', [App\Http\Controllers\viewAllScrollsController::class,'Landing'])->name('LandingPage');
 
 Route::get('/dashboard', function () {
     return view('dashboard');

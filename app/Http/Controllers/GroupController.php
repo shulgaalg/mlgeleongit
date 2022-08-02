@@ -72,11 +72,11 @@ class GroupController extends Controller
             }
         }
 
-
-        return view('group.show', [
+return redirect()->route('LandingPage',[$group->nameHeader => $group->name]);
+      /*  return view('group.show', [
             'group' => $group,
             'scrolls' => $scrolls
-        ]);
+        ]);*/
     }
 
     /**
