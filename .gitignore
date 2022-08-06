@@ -2,7 +2,7 @@
 ;/vendor/
 /.vscode/
 /desktop-tutorial/
-/docker/
+;/docker/
 ;/node_modules/
 ;/nodejs/
 /tmp/
@@ -11,7 +11,7 @@
 .xdebug.ini.swo
 .xdebug.ini.swp
 ;composer.lock
-docker-compose
+;docker-compose
 xdebug
 ;docker-compose.yml
 xdebug.ini
