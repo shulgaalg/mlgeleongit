@@ -39,10 +39,13 @@ class viewAllScrollsController extends Controller
         if ($expectedGroup) {
             $landings = Landing::where('groupId', $expectedGroup)->get();
         }
-        $landings = $landings->sortBy('order');
-        foreach ($landings as $landing) {
-            $scrolls[] = Scroll::find($landing->scrollId);
+        if($landings){
+            $landings = $landings->sortBy('order');
+            foreach ($landings as $landing) {
+                $scrolls[] = Scroll::find($landing->scrollId);
+            }
         }
+
         
         //$scrolls = Scroll::all();
         

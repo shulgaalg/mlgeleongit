@@ -6,114 +6,127 @@
 	<!-- test -->
 	<title>Все Расходные материалы для шиномонтажа и ремонта колес</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="/uikit.min.css">
-	<link rel="stylesheet" href="/template.css">
+	<link rel="stylesheet" href="../../css/uikit.min.css">
+	<link rel="stylesheet" href="../../css/template.css">
 	<!-- <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script> -->
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<!-- <script src="/common.js"></script> -->
-	<link rel='stylesheet' id='gp-font-awesome-css' href='/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' id='gp-font-awesome-css' href='../../fonts/font-awesome.min.css' type='text/css' media='all' />
 	<!-- <link rel="stylesheet" href="/templates/protostar/css/onepage-scroll.css"> -->
 	<meta name="description" content="Все для шиномонтажа, латки для шиномонтажа, латки Россвик, клей Типтоп, материалы для шиномонтажа, все для ремонта колес" />
-	<link href="https://geleon.ua/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="../../img/ico/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 </head>
 
-
-	<body>
-		<!-- PHONE FOR REG USER -->
-		<script src="/jquery.maskedinput.js"></script>
-		<script>
-		jQuery(document).ready(function($) {
-			$("input[name='telephone']").mask("+38 (099) 999-99-99");
-		});
-		</script>
-		<!-- PHONE FOR REG USER -->
-		<section id="step1">
-			<div id="header">
-				<div id="logo" style="" class="default-logo"> <img src="/images/logo.png" /> </div>
-				<a href="https://t.geleon.ua/">
-					<div id="rulang"></div><a/>
-					<a href="https://t.geleon.ua/ua/">
-						<div id="ualang"></div>
-					</a> <span class="butelephone">
-				<script id="bx24_form_button" data-skip-moving="true">
-						(function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){
-							arguments[0].ref=u;
-							(w[b].forms=w[b].forms||[]).push(arguments[0])};
-							if(w[b]['forms']) return;
-						var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
-						var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-			})(window,document,'https://geleon.bitrix24.ua/bitrix/js/crm/form_loader.js','b24form');
-
-			b24form({"id":"6","lang":"ua","sec":"aydvll","type":"button","click":""});
-				</script><span class="butelephone"><a class="telbut"><i class="fa fa-phone" aria-hidden="true">&nbsp;&nbsp;</i>Заказать звонок</a></span> </span> <span class="telephone"><a href="tel:0996699668" onClick="ga('send', 'event', 'Perezvon', 'Zvonok'); yaCounter49714474.reachGoal('step0:perezvon'); return true;">(099) 669 96 68</a></span> </div>
-			<!-- <div id="stepimg1"></div>
-		<div id="stepimg2"></div> -->
-			<div class="uk-section uk-padding-remove">
-				<div class="uk-container uk-container-expand uk-padding-remove">
-					<div class="uk-grid-collapse" uk-grid>
-						<div class="uk-padding-step1 uk-width-2-1@m">
-							<!-- <img src="/../images/logo.png" alt="" srcset=""> -->
-							<div class="moduletable">
-								<!-- <h1>Материалы для ремонта камер и шин от производителя ниже  рынка на 30%</h1> -->
-								<!--<h4>Расходные материалы</h4>-->
-								<h1 style="font-size: 25px; width: 100%;">Расходные материалы для ШИНОМОНТАЖА<nz style="font-weight: bold; color: #ffe203;">подберем от латки до комплекта "на первый раз" за 1 звонок📞</nz><nz style="font-weight: bold; color: white; font-size: 16px;">сегодня отправим - завтра заберете </nz></h1>
-								<!-- для легковых и грузовых шиномонтажей по лучшей цене от крупного интернет-магазина в Украине -->
-								<!--	<p><span class="offer" style="font-weight: 400;"><i class="fa fa-check" style="color: #17dc83;" aria-hidden="true"></i> Бесплатный подбор материала<br><i class="fa fa-check" style="color: #17dc83;" aria-hidden="true"></i> Доставка до двери по Украине<br> <i class="fa fa-check" style="color: #17dc83;" aria-hidden="true"></i> Более 700 постоянных клиентов</span></p> -->
-								<br>
-								<div class="price">
-									<div class="textoverprice">
-										<p style="max-width: 500px; font-size: 18px; background: none; text-align: center; font-weight: bold; color: #ffe203;">Напишите нам</p>
-										<nz style="max-width: 400px; font-size: 14px; background: none; text-align: center; font-weight: bold; color: white">квалифицированный менеджер свяжется с вами и решит любой вопрос по оснащению шиномонтажа
-									</div>
-									<form method="POST" id="form" action="/application.php" onsubmit="javascript:return validate('form','email');">
-										<input type="hidden" name="utm_medium" value="<?php echo $_GET['utm_medium'];?>" />
-										<input type="hidden" name="utm_source" value="<?php echo $_GET['utm_source'];?>" />
-										<input type="hidden" name="utm_content" value="<?php echo $_GET['utm_content'];?>" />
-										<input type="hidden" name="utm_term" value="<?php echo $_GET['utm_term'];?>" />
-										<input type="hidden" name="DATA[TITLE]" value="F2 t.geleon.ua" />
-										<input type="hidden" name="title" value="Заявка Лендинг Расходники" />
-									<!--	<input class="uk-input" type="email" name="email" id="email" placeholder="Введите Ваш E-mail*" required/>-->
-										<input class="uk-input" type="text" name="name" id="name" placeholder="Введите Ваше Имя*" required/>
-										<input class="uk-input" type="text" id="tel" name="telephone" placeholder="+38 (0__) ___-__-__" value="" required/>
-										<input onclick="gtag('event', 'newsletter_submit', { 'event_category': 'form_zayvka', 'event_action': 'submit', });" class="btn" id="submit" type="submit" value="👉написать нам💪" /> </form>
-									<!-- 		<script type="text/javascript">
-				$('#form1').submit(function(e) {
-						e.preventDefault();
-						$.ajax({
-							type: "POST",
-							url: 'application.php',
-							data: $(this).serialize(),
-							success: function(response)
-						{
-						var jsonData = JSON.parse(response);
+<body>
 	
-					// user is logged in successfully in the back-end
-					// let's redirect
-						if (jsonData.success == "1")
-						{
-							alert('Ваша заявка принята!');
-							location.href = 'https://t.geleon.ua/';
-						}
-						else
-						{
-							alert('Что-то пошло не так... Попробуйте еще раз');
-						}
-						}
-					});
-				});
-	</script> -->
-									<div class="textunderkupon"><i class="fa fa-shield" aria-hidden="true"></i> Ваши данные не будут переданы третьим лицам. </div>
+	<!-- PHONE FOR REG USER -->
+	<script src="../../js/jquery.maskedinput.js"></script>
+	<script>
+	jQuery(document).ready(function($) {
+		$("input[name='telephone']").mask("+38 (099) 999-99-99");
+	});
+	</script>
+	<!-- PHONE FOR REG USER -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71715348-5"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+	gtag('config', 'UA-71715348-5');
+	</script>
+	<section id="step1">
+		<div id="header">
+			<div id="logo" style="" class="default-logo"> <img src="../../img/logo.png" /> </div>
+			<a href="https://t.geleon.ua/">
+				<div id="rulang"></div></a>
+				<a href="https://t.geleon.ua/ua/">
+					<div id="ualang"></div>
+				</a> <span class="butelephone">
+			<script id="bx24_form_button" data-skip-moving="true">
+                    (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){
+                        arguments[0].ref=u;
+                        (w[b].forms=w[b].forms||[]).push(arguments[0])};
+                        if(w[b]['forms']) return;
+                     var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());
+                     var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://geleon.bitrix24.ua/bitrix/js/crm/form_loader.js','b24form');
+
+        b24form({"id":"6","lang":"ua","sec":"aydvll","type":"button","click":""});
+            </script><span class="butelephone"><a class="telbut"><i class="fa fa-phone" aria-hidden="true">&nbsp;&nbsp;</i>Заказать звонок</a></span> </span> <span class="telephone"><a href="tel:0996699668" onClick="ga('send', 'event', 'Perezvon', 'Zvonok'); yaCounter49714474.reachGoal('step0:perezvon'); return true;">(099) 669 96 68</a></span> </div>
+		<!-- <div id="stepimg1"></div>
+	<div id="stepimg2"></div> -->
+		<div class="uk-section uk-padding-remove">
+			<div class="uk-container uk-container-expand uk-padding-remove">
+				<div class="uk-grid-collapse" uk-grid>
+					<div class="uk-padding-step1 uk-width-2-1@m">
+						<!-- <img src="/..../../img/logo.png" alt="" srcset=""> -->
+						<div class="moduletable">
+							<!-- <h1>Материалы для ремонта камер и шин от производителя ниже  рынка на 30%</h1> -->
+							<!--<h4>Расходные материалы</h4>-->
+							<h1 style="font-size: 25px; width: 100%;">Расходные материалы для ШИНОМОНТАЖА<nz style="font-weight: bold; color: #ffe203;">подберем от латки до комплекта "на первый раз" за 1 звонок📞</nz><nz style="font-weight: bold; color: white; font-size: 16px;">сегодня отправим - завтра заберете </nz></h1>
+							<!-- для легковых и грузовых шиномонтажей по лучшей цене от крупного интернет-магазина в Украине -->
+							<!--	<p><span class="offer" style="font-weight: 400;"><i class="fa fa-check" style="color: #17dc83;" aria-hidden="true"></i> Бесплатный подбор материала<br><i class="fa fa-check" style="color: #17dc83;" aria-hidden="true"></i> Доставка до двери по Украине<br> <i class="fa fa-check" style="color: #17dc83;" aria-hidden="true"></i> Более 700 постоянных клиентов</span></p> -->
+							<br>
+							<div class="price">
+								<div class="textoverprice">
+									<p style="max-width: 500px; font-size: 18px; background: none; text-align: center; font-weight: bold; color: #ffe203;">Напишите нам</p>
+									<nz style="max-width: 400px; font-size: 14px; background: none; text-align: center; font-weight: bold; color: white">квалифицированный менеджер свяжется с вами и решит любой вопрос по оснащению шиномонтажа
 								</div>
+								<form method="POST" id="form" action="/t/application.php" onsubmit="javascript:return validate('form','email');">
+									<input type="hidden" name="utm_campaign" value="<?php echo $_GET['utm_campaign'];?>" />
+									<input type="hidden" name="utm_medium" value="<?php echo $_GET['utm_medium'];?>" />
+									<input type="hidden" name="utm_source" value="<?php echo $_GET['utm_source'];?>" />
+									<input type="hidden" name="utm_content" value="<?php echo $_GET['utm_content'];?>" />
+									<input type="hidden" name="utm_term" value="<?php echo $_GET['utm_term'];?>" />
+									<input type="hidden" name="DATA[TITLE]" value="F2 t.geleon.ua" />
+									<input type="hidden" name="title" value="Заявка Лендинг Расходники" />
+								<!--	<input class="uk-input" type="email" name="email" id="email" placeholder="Введите Ваш E-mail*" required/>-->
+									<input class="uk-input" type="text" name="name" id="name" placeholder="Введите Ваше Имя*" required/>
+									<input class="uk-input" type="text" id="tel" name="telephone" placeholder="+38 (0__) ___-__-__" value="" required/>
+									<input onclick="gtag('event', 'newsletter_submit', { 'event_category': 'form_zayvka', 'event_action': 'submit', });" class="btn" id="submit" type="submit" value="👉написать нам💪" /> </form>
+								<!-- 		<script type="text/javascript">
+			$('#form1').submit(function(e) {
+					e.preventDefault();
+					$.ajax({
+						type: "POST",
+						url: 'application.php',
+						data: $(this).serialize(),
+						success: function(response)
+					{
+					var jsonData = JSON.parse(response);
+ 
+                // user is logged in successfully in the back-end
+                // let's redirect
+					if (jsonData.success == "1")
+					{
+						alert('Ваша заявка принята!');
+						location.href = 'https://t.geleon.ua/';
+					}
+					else
+					{
+						alert('Что-то пошло не так... Попробуйте еще раз');
+					}
+					}
+				});
+			});
+</script> -->
+								<div class="textunderkupon"><i class="fa fa-shield" aria-hidden="true"></i> Ваши данные не будут переданы третьим лицам. </div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</section>
+		</div>
+	</section>
 	<section id="stepbrend" style="
     display: block;
     margin: 0 auto;
-    text-align: center;">
+    text-align: center;
+">
 		<div class="uk-section uk-padding-large ">
 			<div id="brend1"></div>
 			<div id="brend2"></div>
@@ -156,7 +169,7 @@
 		</div>
 	</section>
 	<div class="uk-child-width-1-2@m uk-child-width-1-2@s" style="    display: flex;    flex-wrap: wrap;">
-		<divide class="divid" style="background: url(/images/test/latki.jpg) no-repeat center -150px;">
+		<divide class="divid" style="background: url(../../img/latki.jpg) no-repeat center -150px;">
 			<h3 class="title">Латки и пластыри<span>для ремонта камер и шин</span></h3>
 			<hr>
 			<p><i class="fa fa-minus" aria-hidden="true"></i> Латки камерные, универсальные (все размеры)
@@ -164,34 +177,34 @@
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Rossvik, BestPatch, Tip Top, Maruni, TECH и др.
 				<br>
 			</p> <a class="uk-align-center  uk-button-4" uk-toggle="" href="#my-idpricetovari" onClick="yaCounter49714474.reachGoal('step3:latki'); return true;">Получить актуальный прайс</a> </divide>
-		<divide class="divid" style="background: url(/images/test/himiya.jpg) no-repeat center -250px;">
+		<divide class="divid" style="background: url(../../img/himiya.jpg) no-repeat center -250px;">
 			<h3 class="title">Химия, жидкости, пасты<span>для шиномонтажа в наличии</span></h3>
 			<hr>
 			<p><i class="fa fa-minus" aria-hidden="true"></i> Герметики борта, термоклеи, пасты
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Клея камерные, клея универсальные
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Клей-цемент, очистители, отвердители
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Rossvik, Tip Top, Maruni, TECH, BestPatch и др.</p> <a class="uk-align-center  uk-button-4" uk-toggle="" href="#my-idpricetovari" onClick="yaCounter49714474.reachGoal('step3:himiya'); return true;">Получить актуальный прайс</a> </divide>
-		<divide class="divid" style="background: url(/images/test/gruza.jpg) no-repeat center -150px;">
+		<divide class="divid" style="background: url(../../img/gruza.jpg) no-repeat center -150px;">
 			<h3 class="title">Груза балансировочные<span>всех размеров в наличии</span></h3>
 			<hr>
 			<p><i class="fa fa-minus" aria-hidden="true"></i> Клеящийся (самоклейка,адгезивный)
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Набивные для стальных дисков
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Набивные для легкосплавных дисков
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Украина, Италия, Бельгия, Германия, Китай</p> <a class="uk-align-center  uk-button-4" uk-toggle="" href="#my-idpricetovari" onClick="yaCounter49714474.reachGoal('step3:gruza'); return true;">Получить актуальный прайс</a> </divide>
-		<divide class="divid" style="background: url(/images/test/ventili.jpg) no-repeat center -150px;">
+		<divide class="divid" style="background: url(../../img/ventili.jpg) no-repeat center -150px;">
 			<h3 class="title">Вентили, золотники, удленители<span>по лучшей цене</span></h3>
 			<hr>
 			<p><i class="fa fa-minus" aria-hidden="true"></i> Бескамерные для легковых и грузовых
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Камерные для легковых и грузовых
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Грибки, колышки, шнуры, якоря
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Rossvik, BestPatch, Украина, Китай</p> <a class="uk-align-center  uk-button-4" uk-toggle="" href="#my-idpricetovari" onClick="yaCounter49714474.reachGoal('step3:ventili'); return true;">Получить актуальный прайс</a> </divide>
-		<divide class="divid" style="background: url(/images/test/rezina.jpg) no-repeat center -150px;">
+		<divide class="divid" style="background: url(../../img/rezina.jpg) no-repeat center -150px;">
 			<h3 class="title">Сырая резина<span>для вулканизации</span></h3>
 			<hr>
 			<p><i class="fa fa-minus" aria-hidden="true"></i> Rossvik, Oxi, Tip Top, Украина
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Толщина: до 1 мм, 1-2,5 мм, от 3 мм
 				<br> <i class="fa fa-minus" aria-hidden="true"></i> Любых размеров</p> <a class="uk-align-center  uk-button-4" uk-toggle="" href="#my-idpricetovari" onClick="yaCounter49714474.reachGoal('step3:rezina'); return true;">Получить актуальный прайс</a> </divide>
-		<divide class="divid" style="background: url(/images/test/oborudovanie.jpg) no-repeat center -250px;">
+		<divide class="divid" style="background: url(../../img/oborudovanie.jpg) no-repeat center -250px;">
 			<h3 class="title">Оборудование<span>для шиномонтажа</span></h3>
 			<hr>
 			<p><i class="fa fa-minus" aria-hidden="true"></i> Балансировочные стенды
@@ -201,7 +214,7 @@
 <sectioncontact class="contact pricce">
 	<h3 class="title">Дайте ответ на 3 вопроса и получите лучшее предложение по расходному материалу</h3>
 	<p><i class="fa fa-clock-o" aria-hidden="true"></i> Данная процедура займёт не больше 30 секунд.</p>
-	<form id="sectioncontact" action="/callback_predlogenia.php" method="POST">
+	<form id="sectioncontact" action="/t/callback_predlogenia.php" method="POST">
 		<label>Какой у Вас шиномонтаж?</label>
 		<select name="shinomontazh" class="uk-select" required>
 			<option selected="selected" value="">Выберите шиномонтаж*</option>
@@ -357,7 +370,7 @@
 	<sectioncontact class="contact">
 		<h3 class="title">Получите бесплатную консультацию по подбору расходных материалов</h3>
 		<p>Мы свяжемся с Вами, чтобы уточнить детали. В зависимости от индивидуальных пожеланий мы предложим несколько вариантов расходников и проконсультируем Вам по их применению.</p>
-		<form method="POST" id="form5" action="/application.php">
+		<form method="POST" id="form5" action="/t/application.php">
 			<input type="hidden" name="DATA[TITLE]" value="RM F9 t.geleon.ua" />
 			<input type="hidden" name="title" value="Заявка Консультация Лендинг" />
 			<input type="hidden" name="title" value="Заявка Консультация Лендинг" />
@@ -375,7 +388,7 @@
 			<h3>Контакты</h3>
 			<h6><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:0996699668" onClick="ga('send', 'event', 'Perezvon', 'Zvonok');  yaCounter49714474.reachGoal('step0:perezvon'); return true;">(099) 669 96 68</a></h6>
 			<h6><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:geleon.kl@gmail.com">geleon.kl@gmail.com</a></h6> </div>
-		<form method="POST" id="sp-quickcontact-form_popup" action="/application.php" onsubmit="javascript:return validate('sp-quickcontact-form_popup','email');">
+		<form method="POST" id="sp-quickcontact-form_popup" action="/t/application.php" onsubmit="javascript:return validate('sp-quickcontact-form_popup','email');">
 			<input type="hidden" name="DATA[TITLE]" value="RM F7 t.geleon.ua грн." />
 			<input type="hidden" name="title" value="Заявка Сообщение Лендинг" />
 			<input type="hidden" name="utm_campaign" value="<?php echo $_GET['utm_campaign'];?>" />
@@ -403,7 +416,7 @@
 				<div class="textcontact">чтобы получить каталог и прайс новой продукции Patch Rubber</div>
 				<div id="sp_quickcontact102" class="sp_quickcontact">
 					<div id="sp_qc_status2"></div>
-					<form method="POST" id="form4" action="/application.php">
+					<form method="POST" id="form4" action="/t/application.php">
 						<input type="hidden" name="DATA[TITLE]" value="Заказ Прайса Patch Rubber. Бесплатная адресная доставка при заказе от 1299 грн." />
 						<input type="hidden" name="title" value="Заказ Прайса Patch Rubber" />
 						<input type="hidden" name="utm_campaign" value="<?php echo $_GET['utm_campaign'];?>" />
@@ -427,7 +440,7 @@
 				<h2 class="titlecontact">Закажите звонок</h2>
 				<div class="textcontact">Наш менеджер свяжется с Вами.</div>
 				<div id="sp_quickcontact102" class="sp_quickcontact">
-					<form method="POST" id="form3" action="/application.php">
+					<form method="POST" id="form3" action="/t/application.php">
 						<input type="hidden" name="utm_campaign" value="<?php echo $_GET['utm_campaign'];?>" />
 						<input type="hidden" name="utm_medium" value="<?php echo $_GET['utm_medium'];?>" />
 						<input type="hidden" name="utm_source" value="<?php echo $_GET['utm_source'];?>" />
@@ -443,7 +456,7 @@
 						e.preventDefault();
 						$.ajax({
 							type: "POST",
-							url: 'application.php',
+							url: 't/application.php',
 							data: $(this).serialize(),
 							success: function(response) {
 								var jsonData = JSON.parse(response);
@@ -472,7 +485,7 @@
 				<div class="textcontact">Оставьте свои данные ниже, чтобы мы смогли выслать вам прайс-лист <b>актуальной стоимости</b></div>
 				<div id="sp_quickcontact102" class="sp_quickcontact">
 					<div id="sp_qc_status2"></div>
-					<form method="POST" id="form2" action="/application.php" onsubmit="javascript:return validate('form2','email');">
+					<form method="POST" id="form2" action="/t/application.php" onsubmit="javascript:return validate('form2','email');">
 						<input type="hidden" name="DATA[TITLE]" value="RM F3 t.geleon.ua" />
 						<input type="hidden" name="utm_campaign" value="<?php echo $_GET['utm_campaign'];?>" />
 						<input type="hidden" name="utm_medium" value="<?php echo $_GET['utm_medium'];?>" />
@@ -587,8 +600,8 @@
 </script>
 -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-	<script src="/uikit.min.js"></script>
-	<script src="/uikit-icons.min.js"></script>
+	<script src="../../js/uikit.min.js"></script>
+	<script src="../../js/uikit-icons.min.js"></script>
 	<script>
 	</script>
 	<!-- Facebook Pixel Code -->
@@ -613,7 +626,21 @@
 	fbq('track', 'PageView');
 	</script>
 	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=566164276887289&ev=PageView&noscript=1" /></noscript>
-	
+	<!-- DO NOT MODIFY -->
+	<!-- End Facebook Pixel Code -->
+	<!--<script type="text/javascript">
+  (function(d, w, s) {
+	var widgetHash = 'cdgvwgga9ydd941ypxmv', gcw = d.createElement(s); gcw.type = 'text/javascript'; gcw.async = true;
+	gcw.src = '//widgets.binotel.com/getcall/widgets/'+ widgetHash +'.js';
+	var sn = d.getElementsByTagName(s)[0]; sn.parentNode.insertBefore(gcw, sn);
+  })(document, window, 'script');
+</script> 
+ <script data-skip-moving="true">
+        (function(w,d,u){
+                var s=d.createElement('script');s.async=1;s.src=u+'?'+(Date.now()/60000|0);
+                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://cdn.bitrix24.ua/b5556387/crm/site_button/loader_4_0elfqc.js');
+</script>  -->
 	<script>
 	  function validate(form_id,email) {
 	   var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;

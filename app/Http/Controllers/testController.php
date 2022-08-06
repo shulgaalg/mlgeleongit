@@ -24,4 +24,9 @@ class testController extends Controller
         echo phpinfo();
 
     }
+
+    public function tFoo(){
+      //  dd($_GET);
+        return view('tt');
+    }
 }

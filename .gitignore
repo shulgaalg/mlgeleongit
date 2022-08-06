@@ -6,8 +6,8 @@
 ;/node_modules/
 ;/nodejs/
 /tmp/
-;.env
-;.env.example
+.env
+.env.example
 .xdebug.ini.swo
 .xdebug.ini.swp
 ;composer.lock

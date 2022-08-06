@@ -77,7 +77,7 @@
 									<nz style="max-width: 400px; font-size: 14px; background: none; text-align: center; font-weight: bold; color: white">квалифицированный менеджер свяжется с вами и решит любой вопрос по оснащению шиномонтажа
 								</div>
 								<form method="POST" id="form" action="/t/application.php" onsubmit="javascript:return validate('form','email');">
-									<input type="hidden" name="utm_campaign" value="<?php echo $_GET['utm_campaign']||0;?>" />
+									<input type="hidden" name="utm_campaign" value="<?php echo $_GET['utm_campaign'];?>" />
 									<input type="hidden" name="utm_medium" value="<?php echo $_GET['utm_medium'];?>" />
 									<input type="hidden" name="utm_source" value="<?php echo $_GET['utm_source'];?>" />
 									<input type="hidden" name="utm_content" value="<?php echo $_GET['utm_content'];?>" />

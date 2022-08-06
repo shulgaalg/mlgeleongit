@@ -30612,3 +30612,54 @@ Array
 )
 
 ------------------------
+
+------------------------
+2022.08.04 20:50:52
+webform PHP
+Array
+(
+    [utm_campaign] => <?php echo $_GET['utm_campaign'];?>
+    [utm_medium] => <?php echo $_GET['utm_medium'];?>
+    [utm_source] => <?php echo $_GET['utm_source'];?>
+    [utm_content] => <?php echo $_GET['utm_content'];?>
+    [utm_term] => <?php echo $_GET['utm_term'];?>
+    [DATA] => Array
+        (
+            [TITLE] => F2 t.geleon.ua
+        )
+
+    [title] => Заявка Лендинг Расходники
+    [name] => Name1Test1
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.1.1882325380.1659641945
+    [_gid] => GA1.1.474499276.1659641945
+    [_gcl_au] => 1.1.1340706112.1659645781
+    [remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d] => eyJpdiI6Im1keFFqbm5UOXllcFJFV3F1L2ZLUmc9PSIsInZhbHVlIjoid2E2cUh6UzZZK3BLREhDZXpzSUVkTXJuQUdxTUxnaW1Hc3VtZXM0NkJMTzhZaHdta01ueTZlTGVhTmJWUUpvOGUwa0xpZmcvaFkwZjR2NGM0eGRud0Y1LzhjeXJISytJd21FcnVjdGFnTzRoVDJYdGpBemErU3FCL2JXWDlPY2hwaUJUbnVkV1pXYXI0cWJ2dHBqRVRSajkzOThFcnNVd3JHQ01PZ004STdSSHUzR2pydzNwbkcxQk5QOTFka1phWDZWOUtpN1ZvakFMc3BDbURkb0V2R0Z0ZXRRU243RlMzZEdFMmU0YXcxcz0iLCJtYWMiOiJhMzIxN2FlYjM5NGRmZjI1ODEwMWE4NDgyZTNmOTBkZTllMmQ4YzkyY2M2Yzc4Yzk0ZmEwZDQ2YzdkNTM3NmZkIiwidGFnIjoiIn0=
+    [XSRF-TOKEN] => eyJpdiI6IjZ2YjhxVEtPZnlhNmZaWDdvODY1cnc9PSIsInZhbHVlIjoiVFlpcW15M0pMZGJNRGQwc1Izb2NwOHdoQnlqbTl5N2QxRFNoUElzd3N6aDk1Q0IwRzJFbjBST0w1WTZnVktobnRVNFVxQVQ2WlJWakxvTDJ5UHZ6V0dIZXlPY0h3Ykh3VHUzSFBnNTVwaDdZZWxVQzg4OGlWQ2U3bWZFUEJlVEIiLCJtYWMiOiI0ODgwNzA2MGExNzc1NjA4YTNiMDlhNThjMmQxZTAwZjhkN2VlYjZjZDdmZTc0ODkzMTU4OTUzNzE2OGU4OTdhIiwidGFnIjoiIn0=
+    [laravel_session] => eyJpdiI6ImlaVmdTY3VubWpYc1BGOGxiYndjaVE9PSIsInZhbHVlIjoiVnEvWXVoSlhRVFo0Y2VFWVRqMFZnVDNDazdLWE1PaS9mY3ErTUZCM3FiNkxzcDlsUytwUzMwU2JRd2tmZXdCOGVLQURranBUV0I0ZkVuYVZKR3VzUjZYVWFNZTR0TDVPWS9JaVJUcDh1UUpPTE5NMk92UjhQNWlYaWh5a3J0ZjgiLCJtYWMiOiI5NTU5NDRjNzZlOTExZjFhZThhZWRhMGI3OWUwYTU0NjI5MDI2OGEwM2RjZTJkY2UwNzhiZTcxM2Y1M2FkMDBmIiwidGFnIjoiIn0=
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2022.08.04 20:50:54
+webform result
+Array
+(
+    [result] => 25021
+    [time] => Array
+        (
+            [start] => 1659646253.081
+            [finish] => 1659646254.4499
+            [duration] => 1.3688910007477
+            [processing] => 1.330512046814
+            [date_start] => 2022-08-04T23:50:53+03:00
+            [date_finish] => 2022-08-04T23:50:54+03:00
+            [operating_reset_at] => 1659646853
+            [operating] => 1.3304960727692
+        )
+
+)
+
+------------------------

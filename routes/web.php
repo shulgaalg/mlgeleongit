@@ -36,9 +36,7 @@ Route::get('/lift', function () {
     return view('lift');
 });
 
-Route::get('/tt', function () {
-    return view('tt');
-});
+Route::get('/tt', [testController::class,'tFoo']);
 
 Route::get('/php', [testController::class,'phpInfo']);
 
