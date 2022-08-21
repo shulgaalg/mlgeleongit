@@ -118,3 +118,49 @@ Array
 )
 
 ------------------------
+
+------------------------
+2022.08.07 16:04:47
+webform PHP
+Array
+(
+    [DATA] => Array
+        (
+            [TITLE] => F2 t.geleon.ua
+        )
+
+    [title] => Заявка Лендинг Расходники
+    [name] => test
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.1.1882325380.1659641945
+    [_gcl_au] => 1.1.1340706112.1659645781
+    [remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d] => eyJpdiI6Im1keFFqbm5UOXllcFJFV3F1L2ZLUmc9PSIsInZhbHVlIjoid2E2cUh6UzZZK3BLREhDZXpzSUVkTXJuQUdxTUxnaW1Hc3VtZXM0NkJMTzhZaHdta01ueTZlTGVhTmJWUUpvOGUwa0xpZmcvaFkwZjR2NGM0eGRud0Y1LzhjeXJISytJd21FcnVjdGFnTzRoVDJYdGpBemErU3FCL2JXWDlPY2hwaUJUbnVkV1pXYXI0cWJ2dHBqRVRSajkzOThFcnNVd3JHQ01PZ004STdSSHUzR2pydzNwbkcxQk5QOTFka1phWDZWOUtpN1ZvakFMc3BDbURkb0V2R0Z0ZXRRU243RlMzZEdFMmU0YXcxcz0iLCJtYWMiOiJhMzIxN2FlYjM5NGRmZjI1ODEwMWE4NDgyZTNmOTBkZTllMmQ4YzkyY2M2Yzc4Yzk0ZmEwZDQ2YzdkNTM3NmZkIiwidGFnIjoiIn0=
+    [_gid] => GA1.1.927321197.1659852348
+    [XSRF-TOKEN] => eyJpdiI6Im0yOHpPZkhpTVk2ZVJRY2krV2NMV1E9PSIsInZhbHVlIjoiNERwV1diYkNGZExKRmtZTEdaUHY4Q2N1cDZ3aDlyb3NPT0lDZ3h5OWplMHpSWnpMSzVYOFVTRlZBZVp6T0xrbzdtTnRpNTQvaWNvbExOUHVOREM3ak1kS1BFSnJ5VzNaMjladHJ5TXhOR1dCME42QmZIYnVxbzdxM08zZXlJOXMiLCJtYWMiOiIwYzhiOGMzZDAwYTA1MDQ0NmFiMzE0ZDVkODJlZDliYmI3MTMxYjNkMTE2ZWVjZTI1ZmU5MDFjY2VlYTM5Yzg4IiwidGFnIjoiIn0=
+    [laravel_session] => eyJpdiI6IktxdmRNTWhsR3Z3SDFlRkdINVppRGc9PSIsInZhbHVlIjoiNXBIZ1VlcHEwS0ZNeUpyYVRMa1Ezc3VndnVIN0VhZ2NuVE9jOWIrNTdpTHVzNEFOVDFHYks0Y3d1QjFaSGgxem96RlY4a0VRc2JzSC9DelErWXlPTFdiQ1BmMjVsNk02UzBoTTFiaSs3K0RvTHF4cE4veFV3VVFGNGxyd3Y5OFgiLCJtYWMiOiI5MmIzMDI0ODFkODVmMDc0NjFhNTM4NzdiN2UxNzhiN2FjM2E1OGNiNGRkMGJiODZmNWM5N2JhMTEyZWU0ZDQ2IiwidGFnIjoiIn0=
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2022.08.07 16:04:48
+webform result
+Array
+(
+    [result] => 25053
+    [time] => Array
+        (
+            [start] => 1659888288.1234
+            [finish] => 1659888289.022
+            [duration] => 0.8985869884491
+            [processing] => 0.86469697952271
+            [date_start] => 2022-08-07T19:04:48+03:00
+            [date_finish] => 2022-08-07T19:04:49+03:00
+            [operating_reset_at] => 1659888888
+            [operating] => 0.86466908454895
+        )
+
+)
+
+------------------------

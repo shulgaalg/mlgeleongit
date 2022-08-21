@@ -38,6 +38,8 @@ Route::get('/lift', function () {
 
 Route::get('/tt', [testController::class,'tFoo']);
 
+Route::post('/tt/thanks', [testController::class,'tThanks'])->name('tThanks');
+
 Route::get('/php', [testController::class,'phpInfo']);
 
 Route::get('/', function () {

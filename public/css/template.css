@@ -386,7 +386,7 @@ text-decoration: none;
     text-align: center;
     margin: 20px 0 0 0;
     border-radius: 10px;
-        background: #ffc212;
+        background: #bbf7d0;
     /* background: linear-gradient(to bottom right, #55fd9e, #004d0d); */
     /* background-size: 200% 200%; */
     font-family: 'Roboto', sans-serif;
@@ -398,7 +398,7 @@ text-decoration: none;
     transition: .5s;
 }
 a.uk-button-4:hover {
-    background: #1d94c3;
+    background: #00a824;
   color: white !important;
   transition: .5s;
 }
@@ -1892,7 +1892,7 @@ a.uk-button-price {background: #fa9a07; background: linear-gradient(to bottom, #
     background: url(../../img/53.jpg) no-repeat center top;
 	background-size: cover;
 }
-#header {padding:5px; display: block; height: 100px;}
+#header {padding:5px;  height: 70px;}
 #logo img {    width: 200px;}
 span.butelephone {    margin: 0;
     float: right;
@@ -2286,7 +2286,7 @@ a.btn{
     font-weight: 600 !important;
     text-align: center;
 }
-.btn:hover{    background-color: #ffce41;cursor: pointer;}
+.btn:hover{    background-color: #00a824;cursor: pointer;}
 
 .ongeleon{
     color: #fff !important;
