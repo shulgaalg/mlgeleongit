@@ -27,6 +27,11 @@ class testController extends Controller
 
     public function tFoo(){
       //  dd($_GET);
-        return view('tt');
+        return view('mlviews/trmaterials');
     }
+
+    public function tThanks(){
+          
+          return view('mlviews/thanksform');
+      }
 }

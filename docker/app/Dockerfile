@@ -33,6 +33,7 @@ RUN useradd -u 1000 -ms /bin/bash -g www www
 #XDEBUG
 RUN pecl install xdebug && docker-php-ext-enable xdebug
 
+RUN command npm install
 # Copy application folder
 COPY . /var/www
 
