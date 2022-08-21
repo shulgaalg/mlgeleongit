@@ -21,3 +21,7 @@ node_modules/
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
 # composer.lock
 mlgeleongit.zip
+rns.php
+node_modules/.bin/acorn
+node_modules/.bin/acorn
+node_modules/.bin/acorn
