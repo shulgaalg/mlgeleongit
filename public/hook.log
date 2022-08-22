@@ -573,3 +573,191 @@ Array
 )
 
 ------------------------
+
+------------------------
+2022.08.21 21:17:12
+webform PHP
+Array
+(
+    [_token] => DS70LqSlPdC5Hjlbuw1Zabx0Tt9LkmAGI07DvWWn
+    [DATA] => Array
+        (
+            [TITLE] => F2 t.geleon.ua
+        )
+
+    [title] => Заявка Лендинг Расходники
+    [name] => 123
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.1.1022843038.1660685809
+    [_gid] => GA1.1.1815188461.1660685809
+    [biatv-cookie] => {"firstVisitAt":1661009585,"visitsCount":2,"campaignCount":1,"currentVisitStartedAt":1661074996,"currentVisitLandingPage":"http://localhost:8877/tt","currentVisitOpenPages":1,"location":"http://localhost:8877/tt","locationTitle":"Все Расходные материалы для шиномонтажа и ремонта колес","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36","language":"en-us","encoding":"utf-8","screenResolution":"1280x720","currentVisitUpdatedAt":1661074996,"utmDataCurrent":{"utm_source":"(direct)","utm_medium":"(none)","utm_campaign":"(direct)","utm_content":"(not set)","utm_term":"(not set)","beginning_at":1661009585},"campaignTime":1661009585,"utmDataFirst":{"utm_source":"(direct)","utm_medium":"(none)","utm_campaign":"(direct)","utm_content":"(not set)","utm_term":"(not set)","beginning_at":1661009585},"geoipData":{"country":"Ukraine","region":"","city":"","org":"Freenet Ltd."}}
+    [bingc-activity-data] => {"numberOfImpressions":1,"activeFormSinceLastDisplayed":27,"pageviews":1,"callWasMade":0,"updatedAt":1661075137}
+    [XSRF-TOKEN] => eyJpdiI6InlXY3ZaSWRBSzJjVUoyZHB4Y29QUUE9PSIsInZhbHVlIjoibFJzbXl6Q2hPc09BdmdINXNoSWJmL1JzUnZCS3l1d1hFQUxQM09DQjRJSnlKNDRqbE1pbHQ2S2RpVEJMaGQwalBFdWhtVVNXSmtCMlVUMEtiYS9HNXJhQlZKaVk5VmtlUGtWZWxnRkQrbVRvbDdETnFUNURXczM4VDRkenlUTDgiLCJtYWMiOiIwNGI1NDlkMTRlYjM1YjIzMjYyMDY3ZDA1MGQ5NDZjZDdkNzkyYWNlNjJmOWI3NDAzNzI0MjNmMDZiZDZkOTA3IiwidGFnIjoiIn0=
+    [laravel_session] => eyJpdiI6IjN3eGkvbmFLTXVLSDh6TWR2aGtIK2c9PSIsInZhbHVlIjoiekxXY2l1MWlXbitsaFB3bWxXVGxBSmJIU2FhWUVvTEk4VnM2ejBwekhJZ0RLSWx1Ymkrc1REVnpvZzJsTm00dEhTMVI4ZUNldDRQbTh4alAvS1o4ZGUrTWE4V0UxcSs3OS9uZFJDU1BYamJKWUlLRTl1eHJTc3QxYSszMk1qTlkiLCJtYWMiOiJlNGM2YTEyOWNhODdlOTYyNzViNmJiNDA4Mzk5OGFkM2IxYzNiZjNiODllZWMzODE2MDFiYWUxYzdlNjgzNjZhIiwidGFnIjoiIn0=
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2022.08.21 21:17:13
+webform result
+Array
+(
+    [result] => 25625
+    [time] => Array
+        (
+            [start] => 1661116633.9925
+            [finish] => 1661116634.5326
+            [duration] => 0.54015898704529
+            [processing] => 0.51416015625
+            [date_start] => 2022-08-22T00:17:13+03:00
+            [date_finish] => 2022-08-22T00:17:14+03:00
+            [operating_reset_at] => 1661117234
+            [operating] => 1.6318912506104
+        )
+
+)
+
+------------------------
+
+------------------------
+2022.08.21 21:19:22
+webform PHP
+Array
+(
+    [_token] => DS70LqSlPdC5Hjlbuw1Zabx0Tt9LkmAGI07DvWWn
+    [DATA] => Array
+        (
+            [TITLE] => F2 t.geleon.ua
+        )
+
+    [title] => Заявка Лендинг Расходники
+    [name] => 123
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.1.1022843038.1660685809
+    [_gid] => GA1.1.1815188461.1660685809
+    [biatv-cookie] => {"firstVisitAt":1661009585,"visitsCount":2,"campaignCount":1,"currentVisitStartedAt":1661074996,"currentVisitLandingPage":"http://localhost:8877/tt","currentVisitOpenPages":1,"location":"http://localhost:8877/tt","locationTitle":"Все Расходные материалы для шиномонтажа и ремонта колес","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36","language":"en-us","encoding":"utf-8","screenResolution":"1280x720","currentVisitUpdatedAt":1661074996,"utmDataCurrent":{"utm_source":"(direct)","utm_medium":"(none)","utm_campaign":"(direct)","utm_content":"(not set)","utm_term":"(not set)","beginning_at":1661009585},"campaignTime":1661009585,"utmDataFirst":{"utm_source":"(direct)","utm_medium":"(none)","utm_campaign":"(direct)","utm_content":"(not set)","utm_term":"(not set)","beginning_at":1661009585},"geoipData":{"country":"Ukraine","region":"","city":"","org":"Freenet Ltd."}}
+    [bingc-activity-data] => {"numberOfImpressions":1,"activeFormSinceLastDisplayed":27,"pageviews":1,"callWasMade":0,"updatedAt":1661075137}
+    [XSRF-TOKEN] => eyJpdiI6IjNGTnFnUEZ4OTVRMy8veTdqbVF2Ync9PSIsInZhbHVlIjoibTBYQVFteDlUcFZDRU0rSkJMYkk1amY4KzRoYjBYYXpxRjlnMlV4cURMc1ZIdzNCWm12aHE3dzVKWXhLYkczeWwyOWlwdVZPTWVOQXJXWHlhdFBvV3NTM3plR3VIUnVqbVdSTWQzRHdQT3ZXUXJkbHkrVjZYRUxuUGI0V3hpWjIiLCJtYWMiOiIwMGIyMDU3NDMyMDA0MjQyMDZjOTYzODg5OGJlZGJlNzJhMjVlOTE1ZjY0ZWNkNTY3NTc1ZTU5OWJjZThmN2Y4IiwidGFnIjoiIn0=
+    [laravel_session] => eyJpdiI6IkllUUw5ZENYMktLY2E4Rlo3YW9uQkE9PSIsInZhbHVlIjoiNjBubi9RaEhrdnp0ZHpNV2RJNGpWRGUzOWJ1b2dzandjT3VwVkQ1RHVPUEpRYTgvcm4yQUowWDByUmJZM0VhOEJuRFlubWtyUFhEUHpYcU14eW1ESGhlNEIwMTBnajROWDl5azcxdUNrSytvMUdBU21jVkl6ZzZBc0tKUWxmVHQiLCJtYWMiOiI2MzI3YzI3MDc0ZTU0MzkzZTc5ZDUwMzAyMGJiM2NjMzAzMjRhMTA3ZDU1ZmQzYmY1NjRkNzEzM2QyNWVmZmIyIiwidGFnIjoiIn0=
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2022.08.21 21:19:23
+webform result
+Array
+(
+    [result] => 25629
+    [time] => Array
+        (
+            [start] => 1661116764.0522
+            [finish] => 1661116764.6286
+            [duration] => 0.57640385627747
+            [processing] => 0.557461977005
+            [date_start] => 2022-08-22T00:19:24+03:00
+            [date_finish] => 2022-08-22T00:19:24+03:00
+            [operating_reset_at] => 1661117364
+            [operating] => 2.7225000858307
+        )
+
+)
+
+------------------------
+
+------------------------
+2022.08.21 21:20:48
+webform PHP
+Array
+(
+    [_token] => DS70LqSlPdC5Hjlbuw1Zabx0Tt9LkmAGI07DvWWn
+    [DATA] => Array
+        (
+            [TITLE] => F2 t.geleon.ua
+        )
+
+    [title] => Заявка Лендинг Расходники
+    [name] => 123
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.1.1022843038.1660685809
+    [_gid] => GA1.1.1815188461.1660685809
+    [biatv-cookie] => {"firstVisitAt":1661009585,"visitsCount":2,"campaignCount":1,"currentVisitStartedAt":1661074996,"currentVisitLandingPage":"http://localhost:8877/tt","currentVisitOpenPages":1,"location":"http://localhost:8877/tt","locationTitle":"Все Расходные материалы для шиномонтажа и ремонта колес","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36","language":"en-us","encoding":"utf-8","screenResolution":"1280x720","currentVisitUpdatedAt":1661074996,"utmDataCurrent":{"utm_source":"(direct)","utm_medium":"(none)","utm_campaign":"(direct)","utm_content":"(not set)","utm_term":"(not set)","beginning_at":1661009585},"campaignTime":1661009585,"utmDataFirst":{"utm_source":"(direct)","utm_medium":"(none)","utm_campaign":"(direct)","utm_content":"(not set)","utm_term":"(not set)","beginning_at":1661009585},"geoipData":{"country":"Ukraine","region":"","city":"","org":"Freenet Ltd."}}
+    [bingc-activity-data] => {"numberOfImpressions":1,"activeFormSinceLastDisplayed":27,"pageviews":1,"callWasMade":0,"updatedAt":1661075137}
+    [XSRF-TOKEN] => eyJpdiI6ImYvM3pPOWIvYnVOM0xNMk9CSHhsUFE9PSIsInZhbHVlIjoiYkpIMy85WGdwNTRXOXQvTyt5aGhOcGt4TkhoMmx4TWc5K1d6YzIrRGt1em9PZER6d09CZ0ZFSk9aRnlDTWluSVQ4cTlLTW9iclkzUDZMSTFWYUpKeVVmdjRCcDA2d1Frc1dGMDVMaGt4cjNxTmViSHNyNXIzMDdXS0NWYUJvNWUiLCJtYWMiOiJjNTk1MGFhN2M5YTQ1MjVjNjZjZTcxNGQ0YmMzYzY4ZmYyOTRhYTRkZDdhYzQxY2MzYTYwODVmZDllNWVkOTE5IiwidGFnIjoiIn0=
+    [laravel_session] => eyJpdiI6InRVUGZOUjFPTnBPWTFqeDNwWC9SWFE9PSIsInZhbHVlIjoibEtraHhkNjJHUkMrcUZEL24vQjQ3Zm1kQloyS1lJdHB4dGc4YzRGeGIyTXdXRjNSbnVQNjMyM29vVDVCbUVXMkNhOVgyMHVRb1cwZWJYOXEvd0p5MzRNMFRDaTBUSEZBOFd5d0pINHMrVURXb2FXTjFPb0JpZllGQ01FL3F3bHciLCJtYWMiOiIyM2RjOGUzM2JiZDdiNjcxNWYzNDgxNTM5NTQ1ZTIzMGU0N2U2ZDc3ZjdlYzIxOGY1NzE0NWRmMGEwZjZhNmE5IiwidGFnIjoiIn0=
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2022.08.21 21:20:49
+webform result
+Array
+(
+    [result] => 25631
+    [time] => Array
+        (
+            [start] => 1661116849.7341
+            [finish] => 1661116850.2905
+            [duration] => 0.55639100074768
+            [processing] => 0.53576993942261
+            [date_start] => 2022-08-22T00:20:49+03:00
+            [date_finish] => 2022-08-22T00:20:50+03:00
+            [operating_reset_at] => 1661117449
+            [operating] => 3.2582540512085
+        )
+
+)
+
+------------------------
+
+------------------------
+2022.08.21 21:22:12
+webform PHP
+Array
+(
+    [_token] => DS70LqSlPdC5Hjlbuw1Zabx0Tt9LkmAGI07DvWWn
+    [DATA] => Array
+        (
+            [TITLE] => F2 t.geleon.ua
+        )
+
+    [title] => Заявка Лендинг Расходники
+    [name] => 123
+    [telephone] => +38 (011) 111-11-11
+    [_ga] => GA1.1.1022843038.1660685809
+    [_gid] => GA1.1.1815188461.1660685809
+    [biatv-cookie] => {"firstVisitAt":1661009585,"visitsCount":2,"campaignCount":1,"currentVisitStartedAt":1661074996,"currentVisitLandingPage":"http://localhost:8877/tt","currentVisitOpenPages":1,"location":"http://localhost:8877/tt","locationTitle":"Все Расходные материалы для шиномонтажа и ремонта колес","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36","language":"en-us","encoding":"utf-8","screenResolution":"1280x720","currentVisitUpdatedAt":1661074996,"utmDataCurrent":{"utm_source":"(direct)","utm_medium":"(none)","utm_campaign":"(direct)","utm_content":"(not set)","utm_term":"(not set)","beginning_at":1661009585},"campaignTime":1661009585,"utmDataFirst":{"utm_source":"(direct)","utm_medium":"(none)","utm_campaign":"(direct)","utm_content":"(not set)","utm_term":"(not set)","beginning_at":1661009585},"geoipData":{"country":"Ukraine","region":"","city":"","org":"Freenet Ltd."}}
+    [bingc-activity-data] => {"numberOfImpressions":1,"activeFormSinceLastDisplayed":27,"pageviews":1,"callWasMade":0,"updatedAt":1661075137}
+    [XSRF-TOKEN] => eyJpdiI6IktUbWlwUlBOZ3Z1WFlOTnZQZVhTQ2c9PSIsInZhbHVlIjoibzg2Ykw3ck1FeDRjVHpNZXFxd1V5OVpFVmZHN2EwMmt4QmkwZktrdWxlVzY1OEVrcDZOS1doZExYaFZVVnVQR29zQlcvcU9hSERSRUljaDkrclBNdnBvblBNMXpWUkxlNTJ5a3UwVS9kVG9FQVl0VklUNTFUdjNIRnlxbHZFcmciLCJtYWMiOiJhMGEzYjY4YzM0ZjI4YTFlZjMyY2E1MmY0MGZkZDUwYWEwMjU0YWM4MTYzNGJkMTNiMDliNjljNzU0MTc4YTVkIiwidGFnIjoiIn0=
+    [laravel_session] => eyJpdiI6IlBPUlZqeEFETGZ1cVZxbDViUDlqTFE9PSIsInZhbHVlIjoieWszT0tRek9lQ2xMNHREN28wQkEvUVdGU1lHNmZtVlplS3lNd0pwNGFyTm5nR3ZpZUR4Z2V5Z09sbzNjSG04RHZVbXFpODJyT0MxMUpkdW1Ya0V1ZVBlclVmeUNFREJQRHlXaFRBNlg5ejN0Tms0TlJsQ2NPVUEwNkxJYTBuakkiLCJtYWMiOiJkNDI4YWE0YWMwOWJmZjk0YjBjY2MxZDU3NGMxZGEyZmE4NzI5MTg0YWNiNmE2NjFkZGNjZjA3NWUyOWU0YWU0IiwidGFnIjoiIn0=
+    [_gat_gtag_UA_71715348_5] => 1
+)
+
+------------------------
+
+------------------------
+2022.08.21 21:22:13
+webform result
+Array
+(
+    [result] => 25633
+    [time] => Array
+        (
+            [start] => 1661116934.3854
+            [finish] => 1661116934.9283
+            [duration] => 0.5428512096405
+            [processing] => 0.52309608459473
+            [date_start] => 2022-08-22T00:22:14+03:00
+            [date_finish] => 2022-08-22T00:22:14+03:00
+            [operating_reset_at] => 1661117534
+            [operating] => 2.6635909080505
+        )
+
+)
+
+------------------------

@@ -76,37 +76,7 @@ $utm = '';
     writeToLog($result, 'webform result');
   if (array_key_exists('error', $result)) echo "Ошибка при сохранении лида: ".$result['error_description']."<br/>";
 
-  
-
-$sendto   = "shulga.alg@gmail.com"; // почта, на которую будет приходить письмо shulga.alg@gmail.com
-$username = empty($_POST['name']) ? $_POST['name'] : NULL;   // сохраняем в переменную данные полученные из поля c именем
-$usertel = !empty($_POST['telephone']) ? substr($_POST['telephone'], 3) : NULL; // сохраняем в переменную данные полученные из поля c телефонным номером
-$usermail = !empty($_POST['email']) ? $_POST['email'] : NULL; // сохраняем в переменную данные полученные из поля c адресом электронной почты
-$usermessage = !empty($_POST['message']) ? $_POST['message'] : NULL; // сохраняем в переменную данные полученные из поля c сообщением
-
-// Формирование заголовка письма
-$subject  = "Заявка с tools.geleon.ua";
-$headers  = "From: tt@geleon.ua \r\n"; /* . strip_tags($usermail) . "\r\n"; */
-$headers .= "Reply-To: shulga.alg@gmail.com\r\n";
-$headers .= "MIME-Version: 1.0\r\n";
-$headers .= "Content-Type: text/html;charset=utf-8 \r\n";
-
-// Формирование тела письма
-$msg  = "<html><body style='font-family:Arial,sans-serif;'>";
-$msg .= "<h2 style='font-weight:bold;border-bottom:1px dotted #ccc;'>Заявка с t.geleon.ua</h2>\r\n";
-$msg .= "<p><strong>От кого:</strong> ".$username."</p>\r\n";
-$msg .= "<p><strong>Email:</strong> ".$usermail."</p>\r\n";
-$msg .= "<p><strong>Телефон:</strong> ".$usertel."</p>\r\n";
-$msg .= "<p><strong>Сообщение:</strong> ".$usermessage."</p>\r\n";
-$msg .= "</body></html>";
-
-// отправка сообщения
-if(@mail($sendto, $subject, $msg, $headers)) {
-  echo "<center><img src='images/thanks.png'></center>";
-} else {
-  echo "<center><img src='images/ne-otpravleno.png'></center>";
-}
-
+  echo "<center><img src='../../img/thanks.png'></center>";
 ?>
 
 </body>
